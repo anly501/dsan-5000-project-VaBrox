@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>introduction</title>
+
+<script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
+// be compatible with the behavior of Pandoc < 2.8).
+document.addEventListener('DOMContentLoaded', function(e) {
+  var hs = document.querySelectorAll("div.section[class*='level'] > :first-child");
+  var i, h, a;
+  for (i = 0; i < hs.length; i++) {
+    h = hs[i];
+    if (!/^h[1-6]$/i.test(h.tagName)) continue;  // it should be a header h1-h6
+    a = h.attributes;
+    while (a.length > 0) h.removeAttribute(a[0].name);
+  }
+});
+
+</script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script>
+
+/**
+ * jQuery Plugin: Sticky Tabs
+ *
+ * @author Aidan Lister <aidan@php.net>
+ * adapted by Ruben Arslan to activate parent tabs too
+ * http://www.aidanlister.com/2014/03/persisting-the-tab-state-in-bootstrap/
+ */
+(function($) {
+  "use strict";
+  $.fn.rmarkdownStickyTabs = function() {
+    var context = this;
+    // Show the tab corresponding with the hash in the URL, or the first tab
+    var showStuffFromHash = function() {
+      var hash = window.location.hash;
+      var selector = hash ? 'a[href="' + hash + '"]' : 'li.active > a';
+      var $selector = $(selector, context);
+      if($selector.data('toggle') === "tab") {
+        $selector.tab('show');
+        // walk up the ancestors of this element, show any hidden tabs
+        $selector.parents('.section.tabset').each(function(i, elm) {
+          var link = $('a[href="#' + $(elm).attr('id') + '"]');
+          if(link.data('toggle') === "tab") {
+            link.tab("show");
+          }
+        });
+      }
+    };
+
+
+    // Set the correct tab when the page loads
+    showStuffFromHash(context);
+
+    // Set the correct tab when a user uses their back/forward button
+    $(window).on('hashchange', function() {
+      showStuffFromHash(context);
+    });
+
+    // Change the URL when tabs are clicked
+    $('a', context).on('click', function(e) {
+      history.pushState(null, null, this.href);
+      showStuffFromHash(context);
+    });
+
+    return this;
+  };
+}(jQuery));
+
+window.buildTabsets = function(tocID) {
+
+  // build a tabset from a section div with the .tabset class
+  function buildTabset(tabset) {
+
+    // check for fade and pills options
+    var fade = tabset.hasClass("tabset-fade");
+    var pills = tabset.hasClass("tabset-pills");
+    var navClass = pills ? "nav-pills" : "nav-tabs";
+
+    // determine the heading level of the tabset and tabs
+    var match = tabset.attr('class').match(/level(\d) /);
+    if (match === null)
+      return;
+    var tabsetLevel = Number(match[1]);
+    var tabLevel = tabsetLevel + 1;
+
+    // find all subheadings immediately below
+    var tabs = tabset.find("div.section.level" + tabLevel);
+    if (!tabs.length)
+      return;
+
+    // create tablist and tab-content elements
+    var tabList = $('<ul class="nav ' + navClass + '" role="tablist"></ul>');
+    $(tabs[0]).before(tabList);
+    var tabContent = $('<div class="tab-content"></div>');
+    $(tabs[0]).before(tabContent);
+
+    // build the tabset
+    var activeTab = 0;
+    tabs.each(function(i) {
+
+      // get the tab div
+      var tab = $(tabs[i]);
+
+      // get the id then sanitize it for use with bootstrap tabs
+      var id = tab.attr('id');
+
+      // see if this is marked as the active tab
+      if (tab.hasClass('active'))
+        activeTab = i;
+
+      // remove any table of contents entries associated with
+      // this ID (since we'll be removing the heading element)
+      $("div#" + tocID + " li a[href='#" + id + "']").parent().remove();
+
+      // sanitize the id for use with bootstrap tabs
+      id = id.replace(/[.\/?&!#<>]/g, '').replace(/\s/g, '_');
+      tab.attr('id', id);
+
+      // get the heading element within it, grab it's text, then remove it
+      var heading = tab.find('h' + tabLevel + ':first');
+      var headingText = heading.html();
+      heading.remove();
+
+      // build and append the tab list item
+      var a = $('<a role="tab" data-toggle="tab">' + headingText + '</a>');
+      a.attr('href', '#' + id);
+      a.attr('aria-controls', id);
+      var li = $('<li role="presentation"></li>');
+      li.append(a);
+      tabList.append(li);
+
+      // set it's attributes
+      tab.attr('role', 'tabpanel');
+      tab.addClass('tab-pane');
+      tab.addClass('tabbed-pane');
+      if (fade)
+        tab.addClass('fade');
+
+      // move it into the tab content div
+      tab.detach().appendTo(tabContent);
+    });
+
+    // set active tab
+    $(tabList.children('li')[activeTab]).addClass('active');
+    var active = $(tabContent.children('div.section')[activeTab]);
+    active.addClass('active');
+    if (fade)
+      active.addClass('in');
+
+    if (tabset.hasClass("tabset-sticky"))
+      tabset.rmarkdownStickyTabs();
+  }
+
+  // convert section divs with the .tabset class to tabsets
+  var tabsets = $("div.section.tabset");
+  tabsets.each(function(i) {
+    buildTabset($(tabsets[i]));
+  });
+};
+
+</script>
+<style type="text/css">.hljs-literal {
+color: #990073;
+}
+.hljs-number {
+color: #099;
+}
+.hljs-comment {
+color: #998;
+font-style: italic;
+}
+.hljs-keyword {
+color: #900;
+font-weight: bold;
+}
+.hljs-string {
+color: #d14;
+}
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<div id="introduction" class="section level1">
+<h1>Introduction</h1>
+<p>Winning a race is the result of a combination of multiple factors,  
+    such as the driver's skill, the car and engine performance, the pit stop strategy, the tire compounds, the weather, 
+    the competitors, and several random events that may occur during the race (Heine, 2021). We will look into the only calculatable  
+    variable that could affects a race: pit stop strategy. Pit stop strategy include the tire compounds strategy, which decided which 
+    laps the car should change its tires and which tires should be selected in order to obtain or maintain a better position in the 
+    race. Tire compounds decide how fast the lap time is, however, faster tire compound have shorter life of grip which means 
+    the car needs to back to the pit and change another set of tires. Teams often use different pit stop strategies that using 
+    different tire compound to achieve their own goal. Therefore adds an element of uncertainty which needs to be optimazed to help
+    teams find the best timing and laps to pit stop.
+</p>
+
+<P>
+This analysis will look into F1 pit stop data and gain a better understanding of what is a better pit stop strategy.
+</P>
+
+<h2>Questions planed to answer:</h2>
+<p>* How did pit stop duration change over time?</p>
+<P>* Is there a relationship between pit stop durations and constructor/team?</P>
+<P>* Is there a relationship between pit stop durations and race circuit?</P>
+<P>* What is the time spent in the pit lane as a percentage of the race?</P>
+<P>* Who is the best constructor on pit stop performance?</P>
+<P>* Does the pit stop time affect the race?</P>
+<P>* What is the lap number that most car choose to pit stop?</P>
+<P>* Is car doing more pit stops have advantages on those who do less pit stops?</P>
+<P>* Who have the fastest pit stop and did he get championship that year? </P>
+<P>* Is the pit stop time consistent with dirver's lap time?</P>
+</div>
+
+<p>Here are some references:</p>
+<!-- Citation  -->
+<p><cite class="citation">[Heine, 2021]</cite> - Oscar F. Carrasco Heine. (2021). On the Optimization of Pit-Stop Strategies via Dynamic Programming.</p>
+<p><cite class="citation">[Martinetti, 2021]</cite> - Alberto Martinetti. (2021). Gone in 2s: a deep dive into perfection analysing the collaborative maintenance pitstop of Formula 1. Journal of Quality in Maintenance Engineering.</p>
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
