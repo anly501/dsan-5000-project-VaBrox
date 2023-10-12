@@ -1,0 +1,1682 @@
+"SEASON","DATE","GRAND_PRIX","PIT_DUR","DRIVER_NUM","TEAM_SEASON","PIT_IRREGULAR"
+2018,"2018-03-25","Australian Grand Prix",2.15,33,"Red Bull",FALSE
+2018,"2018-03-25","Australian Grand Prix",2.39,7,"Ferrari",FALSE
+2018,"2018-03-25","Australian Grand Prix",2.45,3,"Red Bull",FALSE
+2018,"2018-03-25","Australian Grand Prix",2.53,18,"Williams",FALSE
+2018,"2018-03-25","Australian Grand Prix",2.72,20,"Haas",FALSE
+2018,"2018-03-25","Australian Grand Prix",2.8,28,"Toro Rosso",FALSE
+2018,"2018-03-25","Australian Grand Prix",2.98,16,"Sauber",FALSE
+2018,"2018-03-25","Australian Grand Prix",3.01,5,"Ferrari",FALSE
+2018,"2018-03-25","Australian Grand Prix",3.03,31,"Force India",FALSE
+2018,"2018-03-25","Australian Grand Prix",3.03,44,"Mercedes",FALSE
+2018,"2018-03-25","Australian Grand Prix",3.04,77,"Mercedes",FALSE
+2018,"2018-03-25","Australian Grand Prix",3.17,28,"Toro Rosso",FALSE
+2018,"2018-03-25","Australian Grand Prix",3.35,14,"McLaren",FALSE
+2018,"2018-03-25","Australian Grand Prix",3.38,11,"Force India",FALSE
+2018,"2018-03-25","Australian Grand Prix",3.55,2,"McLaren",FALSE
+2018,"2018-03-25","Australian Grand Prix",3.59,16,"Sauber",FALSE
+2018,"2018-03-25","Australian Grand Prix",3.9,27,"Renault",FALSE
+2018,"2018-03-25","Australian Grand Prix",4.02,8,"Haas",FALSE
+2018,"2018-03-25","Australian Grand Prix",5.09,55,"Renault",FALSE
+2018,"2018-03-25","Australian Grand Prix",6.46,18,"Williams",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",2.24,5,"Ferrari",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",2.4,35,"Williams",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",2.53,44,"Mercedes",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",2.68,27,"Renault",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",2.68,31,"Force India",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",2.75,31,"Force India",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",2.87,11,"Force India",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",2.95,27,"Renault",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",2.98,16,"Sauber",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",2.99,7,"Ferrari",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",2.99,7,"Ferrari",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.01,2,"McLaren",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.02,20,"Haas",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.07,10,"Toro Rosso",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.07,18,"Williams",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.07,2,"McLaren",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.18,14,"McLaren",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.2,9,"Sauber",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.24,28,"Toro Rosso",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.24,11,"Force India",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.24,55,"Renault",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.27,20,"Haas",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.36,10,"Toro Rosso",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.4,8,"Haas",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.43,16,"Sauber",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.47,14,"McLaren",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.79,35,"Williams",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.87,77,"Mercedes",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.88,33,"Red Bull",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",3.97,8,"Haas",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",4.13,55,"Renault",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",4.62,8,"Haas",FALSE
+2018,"2018-04-08","Bahrain Grand Prix",12.04,18,"Williams",TRUE
+2018,"2018-04-08","Bahrain Grand Prix",14.42,28,"Toro Rosso",TRUE
+2018,"2018-04-15","Chinese Grand Prix",2.15,77,"Mercedes",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.33,3,"Red Bull",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.39,11,"Force India",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.45,28,"Toro Rosso",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.49,33,"Red Bull",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.55,44,"Mercedes",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.58,3,"Red Bull",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.69,7,"Ferrari",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.7,9,"Sauber",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.72,31,"Force India",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.73,35,"Williams",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.81,18,"Williams",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.87,5,"Ferrari",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.88,33,"Red Bull",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.89,35,"Williams",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.91,8,"Haas",FALSE
+2018,"2018-04-15","Chinese Grand Prix",2.91,11,"Force India",FALSE
+2018,"2018-04-15","Chinese Grand Prix",3.01,20,"Haas",FALSE
+2018,"2018-04-15","Chinese Grand Prix",3.09,16,"Sauber",FALSE
+2018,"2018-04-15","Chinese Grand Prix",3.28,27,"Renault",FALSE
+2018,"2018-04-15","Chinese Grand Prix",3.29,2,"McLaren",FALSE
+2018,"2018-04-15","Chinese Grand Prix",3.31,31,"Force India",FALSE
+2018,"2018-04-15","Chinese Grand Prix",3.36,55,"Renault",FALSE
+2018,"2018-04-15","Chinese Grand Prix",3.36,28,"Toro Rosso",FALSE
+2018,"2018-04-15","Chinese Grand Prix",3.74,10,"Toro Rosso",FALSE
+2018,"2018-04-15","Chinese Grand Prix",3.74,27,"Renault",FALSE
+2018,"2018-04-15","Chinese Grand Prix",3.85,8,"Haas",FALSE
+2018,"2018-04-15","Chinese Grand Prix",3.94,55,"Renault",FALSE
+2018,"2018-04-15","Chinese Grand Prix",3.96,14,"McLaren",FALSE
+2018,"2018-04-15","Chinese Grand Prix",14.43,10,"Toro Rosso",TRUE
+2018,"2018-04-29","Azerbaijan Grand Prix",2.18,18,"Williams",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",2.25,3,"Red Bull",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",2.42,33,"Red Bull",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",2.58,77,"Mercedes",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",2.77,7,"Ferrari",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",2.8,16,"Sauber",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",2.82,2,"McLaren",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",2.82,5,"Ferrari",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",2.84,44,"Mercedes",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",2.89,2,"McLaren",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",2.99,55,"Renault",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.11,28,"Toro Rosso",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.12,2,"McLaren",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.19,14,"McLaren",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.23,10,"Toro Rosso",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.23,2,"McLaren",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.24,28,"Toro Rosso",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.24,28,"Toro Rosso",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.28,5,"Ferrari",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.36,55,"Renault",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.41,8,"Haas",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.57,18,"Williams",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.65,44,"Mercedes",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.66,10,"Toro Rosso",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.92,16,"Sauber",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",3.94,20,"Haas",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",5.12,8,"Haas",FALSE
+2018,"2018-04-29","Azerbaijan Grand Prix",6.9,9,"Sauber",TRUE
+2018,"2018-04-29","Azerbaijan Grand Prix",8.05,11,"Force India",TRUE
+2018,"2018-04-29","Azerbaijan Grand Prix",10.05,11,"Force India",TRUE
+2018,"2018-04-29","Azerbaijan Grand Prix",11.9,7,"Ferrari",TRUE
+2018,"2018-04-29","Azerbaijan Grand Prix",14.07,9,"Sauber",TRUE
+2018,"2018-04-29","Azerbaijan Grand Prix",14.94,20,"Haas",TRUE
+2018,"2018-04-29","Azerbaijan Grand Prix",19.42,9,"Sauber",TRUE
+2018,"2018-04-29","Azerbaijan Grand Prix",30.33,14,"McLaren",TRUE
+2018,"2018-05-13","Spanish Grand Prix",2.26,3,"Red Bull",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.36,18,"Williams",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.38,33,"Red Bull",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.49,35,"Williams",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.49,35,"Williams",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.49,14,"McLaren",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.59,44,"Mercedes",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.64,16,"Sauber",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.67,9,"Sauber",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.71,5,"Ferrari",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.77,11,"Force India",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.86,28,"Toro Rosso",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.88,55,"Renault",FALSE
+2018,"2018-05-13","Spanish Grand Prix",2.92,11,"Force India",FALSE
+2018,"2018-05-13","Spanish Grand Prix",3.06,28,"Toro Rosso",FALSE
+2018,"2018-05-13","Spanish Grand Prix",3.36,20,"Haas",FALSE
+2018,"2018-05-13","Spanish Grand Prix",3.93,77,"Williams",FALSE
+2018,"2018-05-13","Spanish Grand Prix",4.41,35,"Force India",FALSE
+2018,"2018-05-13","Spanish Grand Prix",5.14,5,"Ferrari",FALSE
+2018,"2018-05-13","Spanish Grand Prix",8.05,2,"McLaren",TRUE
+2018,"2018-05-13","Spanish Grand Prix",28.55,31,"Force India",TRUE
+2018,"2018-05-27","Monaco Grand Prix",2.21,16,"Sauber",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.38,5,"Ferrari",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.38,44,"Mercedes",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.39,77,"Mercedes",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.48,33,"Red Bull",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.59,14,"McLaren",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.65,20,"Haas",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.65,7,"Ferrari",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.7,10,"Toro Rosso",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.83,28,"Toro Rosso",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.91,8,"Haas",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.92,31,"Force India",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.95,3,"Red Bull",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.97,8,"Haas",FALSE
+2018,"2018-05-27","Monaco Grand Prix",2.99,9,"Sauber",FALSE
+2018,"2018-05-27","Monaco Grand Prix",3.16,55,"Renault",FALSE
+2018,"2018-05-27","Monaco Grand Prix",3.39,18,"Williams",FALSE
+2018,"2018-05-27","Monaco Grand Prix",3.39,35,"Williams",FALSE
+2018,"2018-05-27","Monaco Grand Prix",3.68,35,"Williams",FALSE
+2018,"2018-05-27","Monaco Grand Prix",3.95,2,"McLaren",FALSE
+2018,"2018-05-27","Monaco Grand Prix",4.17,27,"Renault",FALSE
+2018,"2018-05-27","Monaco Grand Prix",5.19,2,"McLaren",FALSE
+2018,"2018-05-27","Monaco Grand Prix",7.5,18,"Williams",TRUE
+2018,"2018-05-27","Monaco Grand Prix",7.84,11,"Force India",TRUE
+2018,"2018-05-27","Monaco Grand Prix",9.98,35,"Williams",TRUE
+2018,"2018-05-27","Monaco Grand Prix",10.9,18,"Williams",TRUE
+2018,"2018-06-10","Canadian Grand Prix",2.37,9,"Sauber",FALSE
+2018,"2018-06-10","Canadian Grand Prix",2.51,3,"Red Bull",FALSE
+2018,"2018-06-10","Canadian Grand Prix",2.51,33,"Red Bull",FALSE
+2018,"2018-06-10","Canadian Grand Prix",2.76,5,"Ferrari",FALSE
+2018,"2018-06-10","Canadian Grand Prix",2.8,7,"Ferrari",FALSE
+2018,"2018-06-10","Canadian Grand Prix",2.85,35,"Williams",FALSE
+2018,"2018-06-10","Canadian Grand Prix",2.88,11,"Force India",FALSE
+2018,"2018-06-10","Canadian Grand Prix",2.88,44,"Mercedes",FALSE
+2018,"2018-06-10","Canadian Grand Prix",2.91,14,"McLaren",FALSE
+2018,"2018-06-10","Canadian Grand Prix",3.02,2,"McLaren",FALSE
+2018,"2018-06-10","Canadian Grand Prix",3.03,20,"Haas",FALSE
+2018,"2018-06-10","Canadian Grand Prix",3.08,11,"Force India",FALSE
+2018,"2018-06-10","Canadian Grand Prix",3.23,77,"Mercedes",FALSE
+2018,"2018-06-10","Canadian Grand Prix",3.26,16,"Sauber",FALSE
+2018,"2018-06-10","Canadian Grand Prix",3.49,10,"Toro Rosso",FALSE
+2018,"2018-06-10","Canadian Grand Prix",3.81,8,"Haas",FALSE
+2018,"2018-06-10","Canadian Grand Prix",3.93,27,"Renault",FALSE
+2018,"2018-06-10","Canadian Grand Prix",4.43,55,"Renault",FALSE
+2018,"2018-06-10","Canadian Grand Prix",4.86,31,"Force India",FALSE
+2018,"2018-06-10","Canadian Grand Prix",19.53,2,"McLaren",TRUE
+2018,"2018-06-24","French Grand Prix",2.32,9,"Sauber",FALSE
+2018,"2018-06-24","French Grand Prix",2.41,28,"Toro Rosso",FALSE
+2018,"2018-06-24","French Grand Prix",2.44,44,"Mercedes",FALSE
+2018,"2018-06-24","French Grand Prix",2.46,7,"Ferrari",FALSE
+2018,"2018-06-24","French Grand Prix",2.51,33,"Red Bull",FALSE
+2018,"2018-06-24","French Grand Prix",2.59,3,"Red Bull",FALSE
+2018,"2018-06-24","French Grand Prix",2.6,2,"McLaren",FALSE
+2018,"2018-06-24","French Grand Prix",3.07,14,"McLaren",FALSE
+2018,"2018-06-24","French Grand Prix",3.16,27,"Renault",FALSE
+2018,"2018-06-24","French Grand Prix",3.19,16,"Sauber",FALSE
+2018,"2018-06-24","French Grand Prix",3.29,55,"Renault",FALSE
+2018,"2018-06-24","French Grand Prix",3.45,20,"Haas",FALSE
+2018,"2018-06-24","French Grand Prix",3.7,35,"Williams",FALSE
+2018,"2018-06-24","French Grand Prix",3.76,14,"McLaren",FALSE
+2018,"2018-06-24","French Grand Prix",4.42,18,"Williams",FALSE
+2018,"2018-06-24","French Grand Prix",4.53,77,"Mercedes",FALSE
+2018,"2018-06-24","French Grand Prix",7.91,8,"Haas",TRUE
+2018,"2018-06-24","French Grand Prix",8.75,77,"Mercedes",TRUE
+2018,"2018-06-24","French Grand Prix",9.17,5,"Ferrari",TRUE
+2018,"2018-06-24","French Grand Prix",10.26,5,"Ferrari",TRUE
+2018,"2018-07-01","Austrian Grand Prix",2.18,3,"Red Bull",FALSE
+2018,"2018-07-01","Austrian Grand Prix",2.3,16,"Sauber",FALSE
+2018,"2018-07-01","Austrian Grand Prix",2.32,33,"Red Bull",FALSE
+2018,"2018-07-01","Austrian Grand Prix",2.44,44,"Mercedes",FALSE
+2018,"2018-07-01","Austrian Grand Prix",2.45,9,"Sauber",FALSE
+2018,"2018-07-01","Austrian Grand Prix",2.61,44,"Mercedes",FALSE
+2018,"2018-07-01","Austrian Grand Prix",2.64,7,"Ferrari",FALSE
+2018,"2018-07-01","Austrian Grand Prix",2.86,10,"Toro Rosso",FALSE
+2018,"2018-07-01","Austrian Grand Prix",2.92,14,"McLaren",FALSE
+2018,"2018-07-01","Austrian Grand Prix",2.96,20,"Haas",FALSE
+2018,"2018-07-01","Austrian Grand Prix",3.07,3,"Red Bull",FALSE
+2018,"2018-07-01","Austrian Grand Prix",3.19,8,"Haas",FALSE
+2018,"2018-07-01","Austrian Grand Prix",3.25,5,"Ferrari",FALSE
+2018,"2018-07-01","Austrian Grand Prix",3.45,2,"McLaren",FALSE
+2018,"2018-07-01","Austrian Grand Prix",3.59,31,"Force India",FALSE
+2018,"2018-07-01","Austrian Grand Prix",3.68,18,"Williams",FALSE
+2018,"2018-07-01","Austrian Grand Prix",3.98,11,"Force India",FALSE
+2018,"2018-07-01","Austrian Grand Prix",4.02,18,"Williams",FALSE
+2018,"2018-07-01","Austrian Grand Prix",4.04,35,"Williams",FALSE
+2018,"2018-07-01","Austrian Grand Prix",4.26,55,"Renault",FALSE
+2018,"2018-07-01","Austrian Grand Prix",6.05,35,"Williams",TRUE
+2018,"2018-07-01","Austrian Grand Prix",7.79,55,"Renault",TRUE
+2018,"2018-07-01","Austrian Grand Prix",27.07,2,"McLaren",TRUE
+2018,"2018-07-08","British Grand Prix",2.26,3,"Red Bull",FALSE
+2018,"2018-07-08","British Grand Prix",2.29,33,"Red Bull",FALSE
+2018,"2018-07-08","British Grand Prix",2.36,16,"Sauber",FALSE
+2018,"2018-07-08","British Grand Prix",2.38,18,"Williams",FALSE
+2018,"2018-07-08","British Grand Prix",2.45,77,"Mercedes",FALSE
+2018,"2018-07-08","British Grand Prix",2.49,33,"Red Bull",FALSE
+2018,"2018-07-08","British Grand Prix",2.53,5,"Ferrari",FALSE
+2018,"2018-07-08","British Grand Prix",2.61,2,"McLaren",FALSE
+2018,"2018-07-08","British Grand Prix",2.63,3,"Red Bull",FALSE
+2018,"2018-07-08","British Grand Prix",2.66,14,"McLaren",FALSE
+2018,"2018-07-08","British Grand Prix",2.66,9,"Sauber",FALSE
+2018,"2018-07-08","British Grand Prix",2.69,55,"Renault",FALSE
+2018,"2018-07-08","British Grand Prix",2.69,35,"Williams",FALSE
+2018,"2018-07-08","British Grand Prix",2.83,2,"McLaren",FALSE
+2018,"2018-07-08","British Grand Prix",2.84,20,"Haas",FALSE
+2018,"2018-07-08","British Grand Prix",2.86,10,"Toro Rosso",FALSE
+2018,"2018-07-08","British Grand Prix",2.86,11,"Force India",FALSE
+2018,"2018-07-08","British Grand Prix",2.86,11,"Force India",FALSE
+2018,"2018-07-08","British Grand Prix",3.04,27,"Renault",FALSE
+2018,"2018-07-08","British Grand Prix",3.17,5,"Ferrari",FALSE
+2018,"2018-07-08","British Grand Prix",3.4,14,"McLaren",FALSE
+2018,"2018-07-08","British Grand Prix",3.43,55,"Renault",FALSE
+2018,"2018-07-08","British Grand Prix",3.45,7,"Ferrari",FALSE
+2018,"2018-07-08","British Grand Prix",3.5,44,"Mercedes",FALSE
+2018,"2018-07-08","British Grand Prix",3.7,8,"Haas",FALSE
+2018,"2018-07-08","British Grand Prix",3.77,31,"Force India",FALSE
+2018,"2018-07-08","British Grand Prix",4.15,10,"Toro Rosso",FALSE
+2018,"2018-07-08","British Grand Prix",12.9,7,"Ferrari",TRUE
+2018,"2018-07-22","German Grand Prix",2.09,5,"Ferrari",FALSE
+2018,"2018-07-22","German Grand Prix",2.31,33,"Red Bull",FALSE
+2018,"2018-07-22","German Grand Prix",2.33,9,"Sauber",FALSE
+2018,"2018-07-22","German Grand Prix",2.49,2,"McLaren",FALSE
+2018,"2018-07-22","German Grand Prix",2.6,33,"Red Bull",FALSE
+2018,"2018-07-22","German Grand Prix",2.66,14,"McLaren",FALSE
+2018,"2018-07-22","German Grand Prix",2.72,10,"Toro Rosso",FALSE
+2018,"2018-07-22","German Grand Prix",2.73,18,"Williams",FALSE
+2018,"2018-07-22","German Grand Prix",2.78,55,"Renault",FALSE
+2018,"2018-07-22","German Grand Prix",2.81,16,"Sauber",FALSE
+2018,"2018-07-22","German Grand Prix",2.85,16,"Sauber",FALSE
+2018,"2018-07-22","German Grand Prix",2.94,77,"Mercedes",FALSE
+2018,"2018-07-22","German Grand Prix",2.96,28,"Toro Rosso",FALSE
+2018,"2018-07-22","German Grand Prix",2.96,10,"Toro Rosso",FALSE
+2018,"2018-07-22","German Grand Prix",2.98,27,"Renault",FALSE
+2018,"2018-07-22","German Grand Prix",2.98,44,"Mercedes",FALSE
+2018,"2018-07-22","German Grand Prix",3.02,8,"Haas",FALSE
+2018,"2018-07-22","German Grand Prix",3.04,28,"Toro Rosso",FALSE
+2018,"2018-07-22","German Grand Prix",3.06,7,"Ferrari",FALSE
+2018,"2018-07-22","German Grand Prix",3.09,14,"McLaren",FALSE
+2018,"2018-07-22","German Grand Prix",3.13,27,"Renault",FALSE
+2018,"2018-07-22","German Grand Prix",3.14,31,"Force India",FALSE
+2018,"2018-07-22","German Grand Prix",3.16,18,"Williams",FALSE
+2018,"2018-07-22","German Grand Prix",3.19,20,"Haas",FALSE
+2018,"2018-07-22","German Grand Prix",3.21,33,"Red Bull",FALSE
+2018,"2018-07-22","German Grand Prix",3.34,7,"Ferrari",FALSE
+2018,"2018-07-22","German Grand Prix",3.36,2,"McLaren",FALSE
+2018,"2018-07-22","German Grand Prix",3.43,8,"Haas",FALSE
+2018,"2018-07-22","German Grand Prix",3.76,55,"Renault",FALSE
+2018,"2018-07-22","German Grand Prix",3.79,27,"Renault",FALSE
+2018,"2018-07-22","German Grand Prix",3.81,55,"Renault",FALSE
+2018,"2018-07-22","German Grand Prix",4.04,14,"McLaren",FALSE
+2018,"2018-07-22","German Grand Prix",4.11,16,"Sauber",FALSE
+2018,"2018-07-22","German Grand Prix",4.14,35,"Williams",FALSE
+2018,"2018-07-22","German Grand Prix",5.41,8,"Haas",FALSE
+2018,"2018-07-22","German Grand Prix",7.49,20,"Haas",TRUE
+2018,"2018-07-22","German Grand Prix",7.51,35,"Williams",TRUE
+2018,"2018-07-22","German Grand Prix",8.74,11,"Force India",TRUE
+2018,"2018-07-22","German Grand Prix",15.24,20,"Haas",TRUE
+2018,"2018-07-22","German Grand Prix",15.97,77,"Mercedes",TRUE
+2018,"2018-07-28","Hungarian Grand Prix",2.1,35,"Williams",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",2.22,3,"Red Bull",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",2.27,10,"Toro Rosso",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",2.36,18,"Williams",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",2.51,77,"Mercedes",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",2.52,7,"Ferrari",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",2.67,8,"Haas",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",2.72,44,"Mercedes",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",2.73,2,"McLaren",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",2.79,28,"Toro Rosso",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",2.81,27,"Renault",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",2.82,55,"Renault",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",2.84,14,"McLaren",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",3.2,11,"Force India",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",3.21,31,"Force India",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",3.45,9,"Sauber",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",3.63,27,"Renault",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",4.22,5,"Ferrari",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",5.18,7,"Ferrari",FALSE
+2018,"2018-07-28","Hungarian Grand Prix",6.01,20,"Haas",TRUE
+2018,"2018-08-26","Belgian Grand Prix",2.29,5,"Ferrari",FALSE
+2018,"2018-08-26","Belgian Grand Prix",2.32,35,"Williams",FALSE
+2018,"2018-08-26","Belgian Grand Prix",2.45,9,"Sauber",FALSE
+2018,"2018-08-26","Belgian Grand Prix",2.47,10,"Toro Rosso",FALSE
+2018,"2018-08-26","Belgian Grand Prix",2.55,33,"Red Bull",FALSE
+2018,"2018-08-26","Belgian Grand Prix",2.62,77,"Mercedes",FALSE
+2018,"2018-08-26","Belgian Grand Prix",2.67,2,"McLaren",FALSE
+2018,"2018-08-26","Belgian Grand Prix",2.71,28,"Toro Rosso",FALSE
+2018,"2018-08-26","Belgian Grand Prix",2.79,44,"Mercedes",FALSE
+2018,"2018-08-26","Belgian Grand Prix",2.94,18,"Williams",FALSE
+2018,"2018-08-26","Belgian Grand Prix",3.05,11,"Force India",FALSE
+2018,"2018-08-26","Belgian Grand Prix",3.14,8,"Haas",FALSE
+2018,"2018-08-26","Belgian Grand Prix",3.16,31,"Force India",FALSE
+2018,"2018-08-26","Belgian Grand Prix",3.35,2,"McLaren",FALSE
+2018,"2018-08-26","Belgian Grand Prix",3.85,55,"Renault",FALSE
+2018,"2018-08-26","Belgian Grand Prix",4.16,20,"Haas",FALSE
+2018,"2018-08-26","Belgian Grand Prix",5.37,7,"Ferrari",TRUE
+2018,"2018-08-26","Belgian Grand Prix",6.92,7,"Ferrari",TRUE
+2018,"2018-08-26","Belgian Grand Prix",10.21,3,"Red Bull",TRUE
+2018,"2018-08-26","Belgian Grand Prix",10.69,77,"Mercedes",TRUE
+2018,"2018-08-26","Belgian Grand Prix",15,7,"Ferrari",TRUE
+2018,"2018-08-26","Belgian Grand Prix",33.46,3,"Red Bull",TRUE
+2018,"2018-09-02","Italian Grand Prix",2.2,7,"Ferrari",FALSE
+2018,"2018-09-02","Italian Grand Prix",2.31,44,"Mercedes",FALSE
+2018,"2018-09-02","Italian Grand Prix",2.36,77,"Mercedes",FALSE
+2018,"2018-09-02","Italian Grand Prix",2.56,33,"Red Bull",FALSE
+2018,"2018-09-02","Italian Grand Prix",2.58,16,"Sauber",FALSE
+2018,"2018-09-02","Italian Grand Prix",2.58,2,"McLaren",FALSE
+2018,"2018-09-02","Italian Grand Prix",2.9,5,"Ferrari",FALSE
+2018,"2018-09-02","Italian Grand Prix",2.99,27,"Renault",FALSE
+2018,"2018-09-02","Italian Grand Prix",3.18,3,"Red Bull",FALSE
+2018,"2018-09-02","Italian Grand Prix",3.24,8,"Haas",FALSE
+2018,"2018-09-02","Italian Grand Prix",3.48,31,"Force India",FALSE
+2018,"2018-09-02","Italian Grand Prix",3.85,35,"Williams",FALSE
+2018,"2018-09-02","Italian Grand Prix",3.87,27,"Renault",FALSE
+2018,"2018-09-02","Italian Grand Prix",4.06,9,"Sauber",FALSE
+2018,"2018-09-02","Italian Grand Prix",4.12,11,"Force India",FALSE
+2018,"2018-09-02","Italian Grand Prix",4.57,55,"Renault",FALSE
+2018,"2018-09-02","Italian Grand Prix",5.36,18,"Williams",FALSE
+2018,"2018-09-02","Italian Grand Prix",5.6,9,"Sauber",FALSE
+2018,"2018-09-02","Italian Grand Prix",6.48,10,"Toro Rosso",TRUE
+2018,"2018-09-02","Italian Grand Prix",10.65,5,"Ferrari",TRUE
+2018,"2018-09-02","Italian Grand Prix",15.46,20,"Haas",TRUE
+2018,"2018-09-16","Singapore Grand Prix",2.2,18,"Williams",FALSE
+2018,"2018-09-16","Singapore Grand Prix",2.31,3,"Red Bull",FALSE
+2018,"2018-09-16","Singapore Grand Prix",2.45,77,"Mercedes",FALSE
+2018,"2018-09-16","Singapore Grand Prix",2.54,9,"Sauber",FALSE
+2018,"2018-09-16","Singapore Grand Prix",2.56,33,"Red Bull",FALSE
+2018,"2018-09-16","Singapore Grand Prix",2.72,5,"Ferrari",FALSE
+2018,"2018-09-16","Singapore Grand Prix",2.78,10,"Toro Rosso",FALSE
+2018,"2018-09-16","Singapore Grand Prix",2.82,20,"Haas",FALSE
+2018,"2018-09-16","Singapore Grand Prix",2.91,16,"Sauber",FALSE
+2018,"2018-09-16","Singapore Grand Prix",2.97,44,"Mercedes",FALSE
+2018,"2018-09-16","Singapore Grand Prix",3.09,20,"Haas",FALSE
+2018,"2018-09-16","Singapore Grand Prix",3.1,7,"Ferrari",FALSE
+2018,"2018-09-16","Singapore Grand Prix",3.18,8,"Haas",FALSE
+2018,"2018-09-16","Singapore Grand Prix",3.28,28,"Toro Rosso",FALSE
+2018,"2018-09-16","Singapore Grand Prix",3.49,11,"Force India",FALSE
+2018,"2018-09-16","Singapore Grand Prix",3.57,11,"Force India",FALSE
+2018,"2018-09-16","Singapore Grand Prix",3.63,55,"Renault",FALSE
+2018,"2018-09-16","Singapore Grand Prix",3.76,14,"McLaren",FALSE
+2018,"2018-09-16","Singapore Grand Prix",3.8,28,"Toro Rosso",FALSE
+2018,"2018-09-16","Singapore Grand Prix",4.06,2,"McLaren",FALSE
+2018,"2018-09-16","Singapore Grand Prix",4.15,35,"Williams",FALSE
+2018,"2018-09-16","Singapore Grand Prix",4.39,20,"Haas",FALSE
+2018,"2018-09-16","Singapore Grand Prix",4.75,27,"Renault",FALSE
+2018,"2018-09-16","Singapore Grand Prix",7.43,35,"Williams",TRUE
+2018,"2018-09-30","Russian Grand Prix",2.36,18,"Williams",FALSE
+2018,"2018-09-30","Russian Grand Prix",2.45,33,"Red Bull",FALSE
+2018,"2018-09-30","Russian Grand Prix",2.47,7,"Ferrari",FALSE
+2018,"2018-09-30","Russian Grand Prix",2.53,44,"Mercedes",FALSE
+2018,"2018-09-30","Russian Grand Prix",2.57,28,"Toro Rosso",FALSE
+2018,"2018-09-30","Russian Grand Prix",2.62,20,"Haas",FALSE
+2018,"2018-09-30","Russian Grand Prix",2.64,35,"Williams",FALSE
+2018,"2018-09-30","Russian Grand Prix",2.72,2,"McLaren",FALSE
+2018,"2018-09-30","Russian Grand Prix",2.88,5,"Ferrari",FALSE
+2018,"2018-09-30","Russian Grand Prix",2.95,11,"Force India",FALSE
+2018,"2018-09-30","Russian Grand Prix",2.96,9,"Sauber",FALSE
+2018,"2018-09-30","Russian Grand Prix",2.98,77,"Mercedes",FALSE
+2018,"2018-09-30","Russian Grand Prix",3.11,55,"Renault",FALSE
+2018,"2018-09-30","Russian Grand Prix",3.19,9,"Sauber",FALSE
+2018,"2018-09-30","Russian Grand Prix",3.25,16,"Sauber",FALSE
+2018,"2018-09-30","Russian Grand Prix",3.55,8,"Haas",FALSE
+2018,"2018-09-30","Russian Grand Prix",3.71,31,"Force India",FALSE
+2018,"2018-09-30","Russian Grand Prix",3.79,27,"Renault",FALSE
+2018,"2018-09-30","Russian Grand Prix",3.93,14,"McLaren",FALSE
+2018,"2018-09-30","Russian Grand Prix",10.69,3,"Red Bull",TRUE
+2018,"2018-10-07","Japanese Grand Prix",2.24,7,"Ferrari",FALSE
+2018,"2018-10-07","Japanese Grand Prix",2.31,44,"Mercedes",FALSE
+2018,"2018-10-07","Japanese Grand Prix",2.32,5,"Ferrari",FALSE
+2018,"2018-10-07","Japanese Grand Prix",2.42,77,"Mercedes",FALSE
+2018,"2018-10-07","Japanese Grand Prix",2.51,10,"Toro Rosso",FALSE
+2018,"2018-10-07","Japanese Grand Prix",2.54,28,"Toro Rosso",FALSE
+2018,"2018-10-07","Japanese Grand Prix",2.61,3,"Red Bull",FALSE
+2018,"2018-10-07","Japanese Grand Prix",2.74,9,"Sauber",FALSE
+2018,"2018-10-07","Japanese Grand Prix",2.86,27,"Renault",FALSE
+2018,"2018-10-07","Japanese Grand Prix",2.97,2,"McLaren",FALSE
+2018,"2018-10-07","Japanese Grand Prix",3.01,11,"Force India",FALSE
+2018,"2018-10-07","Japanese Grand Prix",3.02,35,"Williams",FALSE
+2018,"2018-10-07","Japanese Grand Prix",3.06,8,"Haas",FALSE
+2018,"2018-10-07","Japanese Grand Prix",3.11,31,"Force India",FALSE
+2018,"2018-10-07","Japanese Grand Prix",3.16,18,"Williams",FALSE
+2018,"2018-10-07","Japanese Grand Prix",3.21,35,"Williams",FALSE
+2018,"2018-10-07","Japanese Grand Prix",3.49,55,"Renault",FALSE
+2018,"2018-10-07","Japanese Grand Prix",6,20,"Haas",TRUE
+2018,"2018-10-07","Japanese Grand Prix",6.3,16,"Sauber",TRUE
+2018,"2018-10-07","Japanese Grand Prix",7.34,14,"McLaren",TRUE
+2018,"2018-10-07","Japanese Grand Prix",8.52,33,"Red Bull",TRUE
+2018,"2018-10-07","Japanese Grand Prix",8.67,20,"Haas",TRUE
+2018,"2018-10-07","Japanese Grand Prix",9.33,18,"Williams",TRUE
+2018,"2018-10-07","Japanese Grand Prix",18.25,16,"Sauber",TRUE
+2018,"2018-10-21","United States Grand Prix",2.28,77,"Mercedes",FALSE
+2018,"2018-10-21","United States Grand Prix",2.32,35,"Williams",FALSE
+2018,"2018-10-21","United States Grand Prix",2.33,7,"Ferrari",FALSE
+2018,"2018-10-21","United States Grand Prix",2.38,33,"Red Bull",FALSE
+2018,"2018-10-21","United States Grand Prix",2.5,44,"Mercedes",FALSE
+2018,"2018-10-21","United States Grand Prix",2.5,20,"Haas",FALSE
+2018,"2018-10-21","United States Grand Prix",2.53,28,"Toro Rosso",FALSE
+2018,"2018-10-21","United States Grand Prix",2.54,35,"Williams",FALSE
+2018,"2018-10-21","United States Grand Prix",2.67,9,"Sauber",FALSE
+2018,"2018-10-21","United States Grand Prix",2.69,10,"Toro Rosso",FALSE
+2018,"2018-10-21","United States Grand Prix",2.73,10,"Toro Rosso",FALSE
+2018,"2018-10-21","United States Grand Prix",2.77,2,"McLaren",FALSE
+2018,"2018-10-21","United States Grand Prix",2.78,44,"Mercedes",FALSE
+2018,"2018-10-21","United States Grand Prix",3.1,2,"McLaren",FALSE
+2018,"2018-10-21","United States Grand Prix",3.2,5,"Ferrari",FALSE
+2018,"2018-10-21","United States Grand Prix",3.27,31,"Force India",FALSE
+2018,"2018-10-21","United States Grand Prix",3.34,18,"Williams",FALSE
+2018,"2018-10-21","United States Grand Prix",3.5,27,"Renault",FALSE
+2018,"2018-10-21","United States Grand Prix",4.33,11,"Force India",FALSE
+2018,"2018-10-21","United States Grand Prix",5.99,8,"Haas",TRUE
+2018,"2018-10-21","United States Grand Prix",8.06,55,"Renault",TRUE
+2018,"2018-10-21","United States Grand Prix",12.44,8,"Haas",TRUE
+2018,"2018-10-21","United States Grand Prix",13.08,16,"Sauber",TRUE
+2018,"2018-10-21","United States Grand Prix",19.39,18,"Williams",TRUE
+2018,"2018-10-21","United States Grand Prix",31.52,14,"McLaren",TRUE
+2018,"2018-10-28","Mexican Grand Prix",2.15,5,"Ferrari",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.2,7,"Ferrari",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.29,2,"McLaren",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.45,77,"Mercedes",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.45,20,"Haas",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.46,33,"Red Bull",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.46,3,"Red Bull",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.54,28,"Toro Rosso",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.62,44,"Mercedes",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.67,44,"Mercedes",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.72,33,"Red Bull",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.73,77,"Mercedes",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.74,16,"Sauber",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.82,10,"Toro Rosso",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.93,5,"Ferrari",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.94,35,"Williams",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.94,55,"Renault",FALSE
+2018,"2018-10-28","Mexican Grand Prix",2.97,8,"Haas",FALSE
+2018,"2018-10-28","Mexican Grand Prix",3.07,31,"Force India",FALSE
+2018,"2018-10-28","Mexican Grand Prix",3.13,27,"Renault",FALSE
+2018,"2018-10-28","Mexican Grand Prix",3.45,11,"Force India",FALSE
+2018,"2018-10-28","Mexican Grand Prix",3.52,18,"Williams",FALSE
+2018,"2018-10-28","Mexican Grand Prix",3.55,10,"Toro Rosso",FALSE
+2018,"2018-10-28","Mexican Grand Prix",3.63,8,"Haas",FALSE
+2018,"2018-10-28","Mexican Grand Prix",3.81,28,"Toro Rosso",FALSE
+2018,"2018-10-28","Mexican Grand Prix",4.39,77,"Mercedes",FALSE
+2018,"2018-10-28","Mexican Grand Prix",4.67,18,"Williams",FALSE
+2018,"2018-10-28","Mexican Grand Prix",8.09,31,"Force India",TRUE
+2018,"2018-10-28","Mexican Grand Prix",11.68,9,"Sauber",TRUE
+2018,"2018-11-11","Brazilian Grand Prix",1.97,5,"Ferrari",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.28,5,"Ferrari",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.31,7,"Ferrari",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.37,2,"McLaren",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.43,77,"Mercedes",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.46,35,"Williams",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.54,77,"Mercedes",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.56,9,"Sauber",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.59,8,"Haas",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.61,20,"Haas",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.61,44,"Mercedes",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.75,14,"McLaren",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.84,11,"Force India",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.91,16,"Sauber",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.92,28,"Toro Rosso",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",2.92,3,"Red Bull",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",3.05,33,"Red Bull",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",3.05,10,"Toro Rosso",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",3.26,18,"Williams",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",3.31,55,"Renault",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",3.46,55,"Renault",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",3.92,18,"Williams",FALSE
+2018,"2018-11-11","Brazilian Grand Prix",6.85,31,"Force India",TRUE
+2018,"2018-11-11","Brazilian Grand Prix",8.48,27,"Renault",TRUE
+2018,"2018-11-11","Brazilian Grand Prix",10.5,31,"Force India",TRUE
+2018,"2018-11-11","Brazilian Grand Prix",12.83,14,"McLaren",TRUE
+2018,"2018-11-11","Brazilian Grand Prix",13.19,9,"Sauber",TRUE
+2018,"2018-11-25","Abu Dhabi Grand Prix",2.08,33,"Red Bull",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",2.24,3,"Red Bull",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",2.5,77,"Mercedes",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",2.51,77,"Mercedes",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",2.57,44,"Mercedes",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",2.68,14,"McLaren",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",2.75,20,"Haas",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",2.83,55,"Renault",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",2.87,16,"Sauber",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",3.04,31,"Force India",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",3.04,8,"Haas",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",3.07,11,"Force India",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",3.23,10,"Toro Rosso",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",3.26,18,"Williams",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",3.51,35,"Williams",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",3.56,2,"McLaren",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",3.77,5,"Ferrari",FALSE
+2018,"2018-11-25","Abu Dhabi Grand Prix",21.41,28,"Toro Rosso",TRUE
+2019,"2019-03-17","Australian Grand Prix",2.19,10,"Red Bull",FALSE
+2019,"2019-03-17","Australian Grand Prix",2.3,33,"Red Bull",FALSE
+2019,"2019-03-17","Australian Grand Prix",2.38,63,"Williams",FALSE
+2019,"2019-03-17","Australian Grand Prix",2.5,4,"McLaren",FALSE
+2019,"2019-03-17","Australian Grand Prix",2.56,23,"Toro Rosso",FALSE
+2019,"2019-03-17","Australian Grand Prix",2.62,27,"Renault",FALSE
+2019,"2019-03-17","Australian Grand Prix",2.63,44,"Mercedes",FALSE
+2019,"2019-03-17","Australian Grand Prix",2.67,63,"Williams",FALSE
+2019,"2019-03-17","Australian Grand Prix",2.88,88,"Williams",FALSE
+2019,"2019-03-17","Australian Grand Prix",3.02,26,"Toro Rosso",FALSE
+2019,"2019-03-17","Australian Grand Prix",3.25,5,"Ferrari",FALSE
+2019,"2019-03-17","Australian Grand Prix",3.28,88,"Williams",FALSE
+2019,"2019-03-17","Australian Grand Prix",3.29,20,"Haas",FALSE
+2019,"2019-03-17","Australian Grand Prix",3.36,18,"Racing Point",FALSE
+2019,"2019-03-17","Australian Grand Prix",3.38,77,"Mercedes",FALSE
+2019,"2019-03-17","Australian Grand Prix",3.48,16,"Ferrari",FALSE
+2019,"2019-03-17","Australian Grand Prix",4.32,11,"Racing Point",FALSE
+2019,"2019-03-17","Australian Grand Prix",4.59,7,"Alfa Romeo",FALSE
+2019,"2019-03-17","Australian Grand Prix",8.29,99,"Alfa Romeo",TRUE
+2019,"2019-03-17","Australian Grand Prix",10.82,8,"Haas",TRUE
+2019,"2019-03-17","Australian Grand Prix",13.49,88,"Williams",TRUE
+2019,"2019-03-17","Australian Grand Prix",13.84,3,"Renault",TRUE
+2019,"2019-03-31","Bahrain Grand Prix",2.17,33,"Red Bull",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.18,88,"Williams",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.19,5,"Ferrari",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.3,16,"Ferrari",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.35,5,"Ferrari",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.38,77,"Mercedes",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.42,16,"Ferrari",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.47,88,"Williams",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.5,44,"Mercedes",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.54,4,"McLaren",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.55,44,"Mercedes",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.56,77,"Mercedes",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.56,10,"Red Bull",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.68,63,"Williams",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.7,20,"Haas",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.79,23,"Toro Rosso",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.86,55,"McLaren",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.92,99,"Alfa Romeo",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.98,27,"Renault",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",2.98,55,"McLaren",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",3.11,4,"McLaren",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",3.14,63,"Williams",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",3.24,27,"Renault",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",3.26,7,"Alfa Romeo",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",3.37,3,"Red Bull",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",3.4,7,"Alfa Romeo",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",3.44,23,"Toro Rosso",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",3.66,20,"Haas",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",4.4,26,"Toro Rosso",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",4.61,11,"Racing Point",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",4.69,18,"Racing Point",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",4.7,33,"Red Bull",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",5.08,11,"Racing Point",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",5.65,10,"Red Bull",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",5.91,99,"Alfa Romeo",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",8.97,26,"Toro Rosso",FALSE
+2019,"2019-03-31","Bahrain Grand Prix",9.01,8,"Haas",TRUE
+2019,"2019-03-31","Bahrain Grand Prix",11.46,18,"Racing Point",TRUE
+2019,"2019-03-31","Bahrain Grand Prix",12.13,5,"Ferrari",TRUE
+2019,"2019-03-31","Bahrain Grand Prix",22.78,55,"McLaren",TRUE
+2019,"2019-04-14","Chinese Grand Prix",2.15,33,"Red Bull",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.19,10,"Red Bull",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.29,5,"Ferrari",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.37,77,"Mercedes",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.39,55,"McLaren",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.47,10,"Red Bull",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.53,5,"Ferrari",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.57,4,"McLaren",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.66,10,"Red Bull",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.78,16,"Ferrari",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.81,23,"Toro Rosso",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.92,44,"Mercedes",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.93,20,"Haas",FALSE
+2019,"2019-04-14","Chinese Grand Prix",2.95,16,"Ferrari",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.04,33,"Red Bull",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.05,77,"Mercedes",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.07,8,"Haas",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.18,3,"Renault",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.24,44,"Mercedes",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.28,8,"Haas",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.28,18,"Racing Point",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.46,18,"Racing Point",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.47,11,"Racing Point",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.63,20,"Haas",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.75,7,"Alfa Romeo",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.76,63,"Williams",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.91,63,"Williams",FALSE
+2019,"2019-04-14","Chinese Grand Prix",3.94,27,"Renault",FALSE
+2019,"2019-04-14","Chinese Grand Prix",4.95,99,"Alfa Romeo",FALSE
+2019,"2019-04-14","Chinese Grand Prix",5.09,99,"Alfa Romeo",FALSE
+2019,"2019-04-14","Chinese Grand Prix",5.19,26,"Toro Rosso",FALSE
+2019,"2019-04-14","Chinese Grand Prix",7.28,4,"McLaren",TRUE
+2019,"2019-04-14","Chinese Grand Prix",12.12,88,"Williams",TRUE
+2019,"2019-04-14","Chinese Grand Prix",13.42,4,"McLaren",TRUE
+2019,"2019-04-14","Chinese Grand Prix",23.05,26,"Toro Rosso",TRUE
+2019,"2019-04-14","Chinese Grand Prix",24.38,55,"McLaren",TRUE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.27,16,"Ferrari",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.31,55,"McLaren",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.32,44,"Mercedes",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.39,63,"Williams",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.45,5,"Ferrari",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.49,4,"McLaren",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.55,20,"Haas",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.62,88,"Williams",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.65,88,"Williams",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.79,63,"Williams",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.8,16,"Ferrari",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.83,27,"Renault",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.84,77,"Mercedes",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.92,99,"Alfa Romeo",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",2.94,26,"Toro Rosso",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",3.04,27,"Renault",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",3.04,23,"Toro Rosso",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",3.07,20,"Haas",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",3.1,7,"Ferrari",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",3.11,11,"Racing Point",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",3.18,33,"Red Bull",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",3.2,3,"Renault",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",3.27,8,"Haas",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",4.83,4,"McLaren",FALSE
+2019,"2019-04-28","Azerbaijan Grand Prix",5.52,18,"Racing Point",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.07,55,"McLaren",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.08,5,"Ferrari",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.14,4,"McLaren",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.15,16,"Ferrari",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.16,88,"Williams",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.17,88,"Williams",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.27,55,"McLaren",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.29,63,"Williams",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.5,10,"Red Bull",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.53,26,"Toro Rosso",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.61,20,"Haas",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.64,7,"Alfa Romeo",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.66,44,"Mercedes",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.7,27,"Renault",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.71,3,"Red Bull",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.75,44,"Mercedes",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.8,8,"Haas",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.83,77,"Mercedes",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.87,33,"Red Bull",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.92,33,"Red Bull",FALSE
+2019,"2019-05-12","Spanish Grand Prix",2.95,99,"Alfa Romeo",FALSE
+2019,"2019-05-12","Spanish Grand Prix",3.04,7,"Renault",FALSE
+2019,"2019-05-12","Spanish Grand Prix",3.09,3,"Renault",FALSE
+2019,"2019-05-12","Spanish Grand Prix",3.11,10,"McLaren",FALSE
+2019,"2019-05-12","Spanish Grand Prix",3.11,11,"Racing Point",FALSE
+2019,"2019-05-12","Spanish Grand Prix",3.12,63,"Williams",FALSE
+2019,"2019-05-12","Spanish Grand Prix",3.18,77,"Mercedes",FALSE
+2019,"2019-05-12","Spanish Grand Prix",3.2,8,"Haas",FALSE
+2019,"2019-05-12","Spanish Grand Prix",3.24,11,"Racing Point",FALSE
+2019,"2019-05-12","Spanish Grand Prix",3.61,20,"Haas",FALSE
+2019,"2019-05-12","Spanish Grand Prix",3.83,99,"Alfa Romeo",FALSE
+2019,"2019-05-12","Spanish Grand Prix",3.92,18,"Racing Point",FALSE
+2019,"2019-05-12","Spanish Grand Prix",4.06,23,"Williams",FALSE
+2019,"2019-05-12","Spanish Grand Prix",4.41,5,"Ferrari",FALSE
+2019,"2019-05-12","Spanish Grand Prix",4.49,16,"Ferrari",FALSE
+2019,"2019-05-12","Spanish Grand Prix",14.8,26,"Toro Rosso",TRUE
+2019,"2019-05-12","Spanish Grand Prix",15.37,23,"Toro Rosso",TRUE
+2019,"2019-05-26","Monaco Grand Prix",3.66,27,"Renault",FALSE
+2019,"2019-05-26","Monaco Grand Prix",3.65,16,"Ferrari",FALSE
+2019,"2019-05-26","Monaco Grand Prix",4.18,63,"Williams",FALSE
+2019,"2019-05-26","Monaco Grand Prix",2.91,44,"Mercedes",FALSE
+2019,"2019-05-26","Monaco Grand Prix",3.13,77,"Mercedes",FALSE
+2019,"2019-05-26","Monaco Grand Prix",2.43,5,"Ferrari",FALSE
+2019,"2019-05-26","Monaco Grand Prix",2.44,33,"Red Bull",FALSE
+2019,"2019-05-26","Monaco Grand Prix",2.36,3,"Renault",FALSE
+2019,"2019-05-26","Monaco Grand Prix",3.56,20,"Haas",FALSE
+2019,"2019-05-26","Monaco Grand Prix",7.01,11,"Racing Point",TRUE
+2019,"2019-05-26","Monaco Grand Prix",3.35,77,"Mercedes",FALSE
+2019,"2019-05-26","Monaco Grand Prix",3.82,16,"Ferrari",FALSE
+2019,"2019-05-26","Monaco Grand Prix",2.07,88,"Williams",FALSE
+2019,"2019-05-26","Monaco Grand Prix",2.6,10,"Red Bull",FALSE
+2019,"2019-05-26","Monaco Grand Prix",2.57,55,"McLaren",FALSE
+2019,"2019-05-26","Monaco Grand Prix",2.74,26,"Toro Rosso",FALSE
+2019,"2019-05-26","Monaco Grand Prix",3.07,18,"Racing Point",FALSE
+2019,"2019-05-26","Monaco Grand Prix",3.16,23,"Toro Rosso",FALSE
+2019,"2019-05-26","Monaco Grand Prix",13.18,99,"Alfa Romeo",TRUE
+2019,"2019-05-26","Monaco Grand Prix",4.44,7,"Alfa Romeo",FALSE
+2019,"2019-05-26","Monaco Grand Prix",3.45,4,"McLaren",FALSE
+2019,"2019-05-26","Monaco Grand Prix",2.73,8,"Haas",FALSE
+2019,"2019-05-26","Monaco Grand Prix",2.54,10,"Red Bull",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2,88,"Williams",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.37,10,"Red Bull",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.38,33,"Red Bull",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.38,16,"Ferrari",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.46,44,"Mercedes",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.47,77,"Mercedes",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.71,5,"Ferrari",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.71,27,"Renault",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.81,99,"Alfa Romeo",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.84,18,"Racing Point",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.86,11,"Racing Point",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.86,63,"Williams",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.93,26,"Toro Rosso",FALSE
+2019,"2019-06-09","Canadian Grand Prix",2.99,8,"Haas",FALSE
+2019,"2019-06-09","Canadian Grand Prix",3,3,"Renault",FALSE
+2019,"2019-06-09","Canadian Grand Prix",3.09,20,"Haas",FALSE
+2019,"2019-06-09","Canadian Grand Prix",3.25,77,"Mercedes",FALSE
+2019,"2019-06-09","Canadian Grand Prix",3.97,7,"Alfa Romeo",FALSE
+2019,"2019-06-09","Canadian Grand Prix",3.98,55,"McLaren",FALSE
+2019,"2019-06-09","Canadian Grand Prix",4.1,88,"Williams",FALSE
+2019,"2019-06-09","Canadian Grand Prix",4.42,7,"Alfa Romeo",FALSE
+2019,"2019-06-09","Canadian Grand Prix",16.62,23,"Toro Rosso",TRUE
+2019,"2019-06-23","French Grand Prix",3.16,99,"Alfa Romeo",FALSE
+2019,"2019-06-23","French Grand Prix",3.54,3,"Renault",FALSE
+2019,"2019-06-23","French Grand Prix",3.16,20,"Haas",FALSE
+2019,"2019-06-23","French Grand Prix",2.18,10,"Red Bull",FALSE
+2019,"2019-06-23","French Grand Prix",3.33,4,"McLaren",FALSE
+2019,"2019-06-23","French Grand Prix",9.41,11,"Racing Point",TRUE
+2019,"2019-06-23","French Grand Prix",2.4,55,"McLaren",FALSE
+2019,"2019-06-23","French Grand Prix",2.4,33,"Red Bull",FALSE
+2019,"2019-06-23","French Grand Prix",2.73,16,"Ferrari",FALSE
+2019,"2019-06-23","French Grand Prix",2.99,77,"Mercedes",FALSE
+2019,"2019-06-23","French Grand Prix",2.24,44,"Mercedes",FALSE
+2019,"2019-06-23","French Grand Prix",2.29,5,"Ferrari",FALSE
+2019,"2019-06-23","French Grand Prix",1.97,88,"Williams",FALSE
+2019,"2019-06-23","French Grand Prix",2.58,23,"Toro Rosso",FALSE
+2019,"2019-06-23","French Grand Prix",4.41,63,"Williams",FALSE
+2019,"2019-06-23","French Grand Prix",2.59,7,"Alfa Romeo",FALSE
+2019,"2019-06-23","French Grand Prix",3.12,8,"Haas",FALSE
+2019,"2019-06-23","French Grand Prix",2.84,26,"Toro Rosso",FALSE
+2019,"2019-06-23","French Grand Prix",9.78,63,"Williams",TRUE
+2019,"2019-06-23","French Grand Prix",3.31,27,"Renault",FALSE
+2019,"2019-06-23","French Grand Prix",4.1,99,"Alfa Romeo",FALSE
+2019,"2019-06-23","French Grand Prix",2.98,18,"Racing Point",FALSE
+2019,"2019-06-23","French Grand Prix",2.9,5,"Ferrari",FALSE
+2019,"2019-06-30","Austrian Grand Prix",2.02,88,"Williams",FALSE
+2019,"2019-06-30","Austrian Grand Prix",2.09,33,"Red Bull",FALSE
+2019,"2019-06-30","Austrian Grand Prix",2.23,23,"Toro Rosso",FALSE
+2019,"2019-06-30","Austrian Grand Prix",2.37,4,"McLaren",FALSE
+2019,"2019-06-30","Austrian Grand Prix",2.42,55,"McLaren",FALSE
+2019,"2019-06-30","Austrian Grand Prix",2.56,99,"Alfa Romeo",FALSE
+2019,"2019-06-30","Austrian Grand Prix",2.58,10,"Red Bull",FALSE
+2019,"2019-06-30","Austrian Grand Prix",2.68,16,"Ferrari",FALSE
+2019,"2019-06-30","Austrian Grand Prix",2.68,7,"Alfa Romeo",FALSE
+2019,"2019-06-30","Austrian Grand Prix",2.83,18,"Racing Point",FALSE
+2019,"2019-06-30","Austrian Grand Prix",2.86,27,"Renault",FALSE
+2019,"2019-06-30","Austrian Grand Prix",3.01,8,"Haas",FALSE
+2019,"2019-06-30","Austrian Grand Prix",3.12,11,"Racing Point",FALSE
+2019,"2019-06-30","Austrian Grand Prix",3.35,3,"Renault",FALSE
+2019,"2019-06-30","Austrian Grand Prix",3.56,77,"Mercedes",FALSE
+2019,"2019-06-30","Austrian Grand Prix",3.62,5,"Ferrari",FALSE
+2019,"2019-06-30","Austrian Grand Prix",3.71,63,"Williams",FALSE
+2019,"2019-06-30","Austrian Grand Prix",3.8,20,"Haas",FALSE
+2019,"2019-06-30","Austrian Grand Prix",6.12,5,"Ferrari",FALSE
+2019,"2019-06-30","Austrian Grand Prix",6.24,26,"Toro Rosso",FALSE
+2019,"2019-06-30","Austrian Grand Prix",11.07,44,"Mercedes",TRUE
+2019,"2019-07-14","British Grand Prix",1.91,10,"Red Bull",FALSE
+2019,"2019-07-14","British Grand Prix",1.96,33,"Red Bull",FALSE
+2019,"2019-07-14","British Grand Prix",2.06,33,"Red Bull",FALSE
+2019,"2019-07-14","British Grand Prix",2.14,88,"Williams",FALSE
+2019,"2019-07-14","British Grand Prix",2.17,55,"McLaren",FALSE
+2019,"2019-07-14","British Grand Prix",2.25,5,"Ferrari",FALSE
+2019,"2019-07-14","British Grand Prix",2.44,3,"Renault",FALSE
+2019,"2019-07-14","British Grand Prix",2.45,4,"McLaren",FALSE
+2019,"2019-07-14","British Grand Prix",2.47,77,"Mercedes",FALSE
+2019,"2019-07-14","British Grand Prix",2.52,7,"Alfa Romeo",FALSE
+2019,"2019-07-14","British Grand Prix",2.56,16,"Ferrari",FALSE
+2019,"2019-07-14","British Grand Prix",2.61,4,"McLaren",FALSE
+2019,"2019-07-14","British Grand Prix",2.65,11,"Racing Point",FALSE
+2019,"2019-07-14","British Grand Prix",2.7,3,"Renault",FALSE
+2019,"2019-07-14","British Grand Prix",2.79,16,"Ferrari",FALSE
+2019,"2019-07-14","British Grand Prix",2.82,77,"Mercedes",FALSE
+2019,"2019-07-14","British Grand Prix",2.83,26,"Toro Rosso",FALSE
+2019,"2019-07-14","British Grand Prix",2.9,27,"Renault",FALSE
+2019,"2019-07-14","British Grand Prix",2.97,23,"Toro Rosso",FALSE
+2019,"2019-07-14","British Grand Prix",2.99,44,"Mercedes",FALSE
+2019,"2019-07-14","British Grand Prix",3.39,18,"Racing Point",FALSE
+2019,"2019-07-14","British Grand Prix",3.76,26,"Toro Rosso",FALSE
+2019,"2019-07-14","British Grand Prix",4.16,63,"Williams",FALSE
+2019,"2019-07-14","British Grand Prix",4.4,18,"Racing Point",FALSE
+2019,"2019-07-14","British Grand Prix",4.52,11,"Racing Point",FALSE
+2019,"2019-07-14","British Grand Prix",5.2,20,"Haas",TRUE
+2019,"2019-07-14","British Grand Prix",6.26,8,"Haas",TRUE
+2019,"2019-07-14","British Grand Prix",10.98,11,"Racing Point",TRUE
+2019,"2019-07-14","British Grand Prix",12.24,5,"Ferrari",FALSE
+2019,"2019-07-28","German Grand Prix",1.88,33,"Red Bull",FALSE
+2019,"2019-07-28","German Grand Prix",1.99,88,"Williams",FALSE
+2019,"2019-07-28","German Grand Prix",2.04,33,"Red Bull",FALSE
+2019,"2019-07-28","German Grand Prix",2.11,33,"Red Bull",FALSE
+2019,"2019-07-28","German Grand Prix",2.14,88,"Williams",FALSE
+2019,"2019-07-28","German Grand Prix",2.15,10,"Red Bull",FALSE
+2019,"2019-07-28","German Grand Prix",2.23,63,"Williams",FALSE
+2019,"2019-07-28","German Grand Prix",2.32,63,"Williams",FALSE
+2019,"2019-07-28","German Grand Prix",2.33,10,"Red Bull",FALSE
+2019,"2019-07-28","German Grand Prix",2.41,16,"Ferrari",FALSE
+2019,"2019-07-28","German Grand Prix",2.41,23,"Toro Rosso",FALSE
+2019,"2019-07-28","German Grand Prix",2.46,88,"Williams",FALSE
+2019,"2019-07-28","German Grand Prix",2.49,7,"Alfa Romeo",FALSE
+2019,"2019-07-28","German Grand Prix",2.5,44,"Mercedes",FALSE
+2019,"2019-07-28","German Grand Prix",2.52,88,"Williams",FALSE
+2019,"2019-07-28","German Grand Prix",2.52,99,"Alfa Romeo",FALSE
+2019,"2019-07-28","German Grand Prix",2.53,10,"Red Bull",FALSE
+2019,"2019-07-28","German Grand Prix",2.54,20,"Haas",FALSE
+2019,"2019-07-28","German Grand Prix",2.56,5,"Ferrari",FALSE
+2019,"2019-07-28","German Grand Prix",2.58,63,"Williams",FALSE
+2019,"2019-07-28","German Grand Prix",2.59,5,"Ferrari",FALSE
+2019,"2019-07-28","German Grand Prix",2.59,4,"McLaren",FALSE
+2019,"2019-07-28","German Grand Prix",2.62,44,"Mercedes",FALSE
+2019,"2019-07-28","German Grand Prix",2.62,77,"Mercedes",FALSE
+2019,"2019-07-28","German Grand Prix",2.64,88,"Williams",FALSE
+2019,"2019-07-28","German Grand Prix",2.7,27,"Renault",FALSE
+2019,"2019-07-28","German Grand Prix",2.75,23,"Toro Rosso",FALSE
+2019,"2019-07-28","German Grand Prix",2.78,16,"Ferrari",FALSE
+2019,"2019-07-28","German Grand Prix",2.8,4,"McLaren",FALSE
+2019,"2019-07-28","German Grand Prix",2.81,27,"Renault",FALSE
+2019,"2019-07-28","German Grand Prix",2.82,77,"Mercedes",FALSE
+2019,"2019-07-28","German Grand Prix",2.83,18,"Racing Point",FALSE
+2019,"2019-07-28","German Grand Prix",2.85,44,"Mercedes",FALSE
+2019,"2019-07-28","German Grand Prix",2.93,18,"Racing Point",FALSE
+2019,"2019-07-28","German Grand Prix",2.96,20,"Haas",FALSE
+2019,"2019-07-28","German Grand Prix",2.97,7,"Alfa Romeo",FALSE
+2019,"2019-07-28","German Grand Prix",2.98,99,"Alfa Romeo",FALSE
+2019,"2019-07-28","German Grand Prix",2.99,55,"McLaren",FALSE
+2019,"2019-07-28","German Grand Prix",3.03,23,"Toro Rosso",FALSE
+2019,"2019-07-28","German Grand Prix",3.03,3,"Renault",FALSE
+2019,"2019-07-28","German Grand Prix",3.06,5,"Ferrari",FALSE
+2019,"2019-07-28","German Grand Prix",3.08,63,"Williams",FALSE
+2019,"2019-07-28","German Grand Prix",3.08,18,"Racing Point",FALSE
+2019,"2019-07-28","German Grand Prix",3.13,20,"Haas",FALSE
+2019,"2019-07-28","German Grand Prix",3.14,20,"Haas",FALSE
+2019,"2019-07-28","German Grand Prix",3.17,26,"Toro Rosso",FALSE
+2019,"2019-07-28","German Grand Prix",3.18,55,"McLaren",FALSE
+2019,"2019-07-28","German Grand Prix",3.24,8,"Haas",FALSE
+2019,"2019-07-28","German Grand Prix",3.24,20,"Haas",FALSE
+2019,"2019-07-28","German Grand Prix",3.24,26,"Toro Rosso",FALSE
+2019,"2019-07-28","German Grand Prix",3.28,8,"Haas",FALSE
+2019,"2019-07-28","German Grand Prix",3.3,20,"Haas",FALSE
+2019,"2019-07-28","German Grand Prix",3.37,63,"Williams",FALSE
+2019,"2019-07-28","German Grand Prix",3.4,8,"Haas",FALSE
+2019,"2019-07-28","German Grand Prix",3.58,26,"Toro Rosso",FALSE
+2019,"2019-07-28","German Grand Prix",3.58,18,"Racing Point",FALSE
+2019,"2019-07-28","German Grand Prix",3.63,33,"Red Bull",FALSE
+2019,"2019-07-28","German Grand Prix",3.7,8,"Haas",FALSE
+2019,"2019-07-28","German Grand Prix",3.74,99,"Alfa Romeo",FALSE
+2019,"2019-07-28","German Grand Prix",3.79,55,"McLaren",FALSE
+2019,"2019-07-28","German Grand Prix",3.81,77,"Mercedes",FALSE
+2019,"2019-07-28","German Grand Prix",3.82,26,"Toro Rosso",FALSE
+2019,"2019-07-28","German Grand Prix",3.88,23,"Toro Rosso",FALSE
+2019,"2019-07-28","German Grand Prix",4.02,7,"Alfa Romeo",FALSE
+2019,"2019-07-28","German Grand Prix",4.06,5,"Ferrari",FALSE
+2019,"2019-07-28","German Grand Prix",4.32,27,"Renault",FALSE
+2019,"2019-07-28","German Grand Prix",4.37,8,"Haas",FALSE
+2019,"2019-07-28","German Grand Prix",4.45,5,"Ferrari",FALSE
+2019,"2019-07-28","German Grand Prix",4.48,77,"Mercedes",FALSE
+2019,"2019-07-28","German Grand Prix",4.89,16,"Ferrari",FALSE
+2019,"2019-07-28","German Grand Prix",5.1,33,"Red Bull",FALSE
+2019,"2019-07-28","German Grand Prix",5.42,18,"Racing Point",FALSE
+2019,"2019-07-28","German Grand Prix",5.63,44,"Mercedes",FALSE
+2019,"2019-07-28","German Grand Prix",8.25,99,"Alfa Romeo",TRUE
+2019,"2019-07-28","German Grand Prix",9.67,7,"Ferrari",TRUE
+2019,"2019-07-28","German Grand Prix",9.68,44,"Mercedes",TRUE
+2019,"2019-07-28","German Grand Prix",10,10,"Red Bull",TRUE
+2019,"2019-07-28","German Grand Prix",50.39,44,"Mercedes",TRUE
+2019,"2019-08-04","Hungarian Grand Prix",2.19,63,"Williams",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.26,33,"Red Bull",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.27,88,"Williams",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.35,44,"Mercedes",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.36,16,"Ferrari",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.42,18,"Racing Point",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.57,20,"Haas",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.67,7,"Alfa Romeo",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.68,33,"Red Bull",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.68,77,"Mercedes",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.73,27,"Renault",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.76,11,"Racing Point",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.77,55,"McLaren",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.81,8,"Haas",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",2.83,18,"Racing Point",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",3.05,10,"Red Bull",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",3.36,3,"Renault",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",3.71,99,"Alfa Romeo",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",4.01,44,"Mercedes",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",4.3,26,"Toro Rosso",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",4.59,23,"Toro Rosso",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",5.87,5,"Ferrari",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",6.98,4,"McLaren",FALSE
+2019,"2019-08-04","Hungarian Grand Prix",14.71,77,"Mercedes",TRUE
+2019,"2019-09-01","Belgian Grand Prix",2.02,63,"Williams",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.19,23,"Red Bull",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.31,77,"Mercedes",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.48,16,"Ferrari",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.51,10,"Toro Rosso",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.55,20,"Haas",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.58,8,"Haas",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.59,5,"Ferrari",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.65,27,"Renault",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.68,5,"Ferrari",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.72,4,"McLaren",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.75,18,"Racing Point",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.88,11,"Racing Point",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.92,99,"Alfa Romeo",FALSE
+2019,"2019-09-01","Belgian Grand Prix",2.96,26,"Toro Rosso",FALSE
+2019,"2019-09-01","Belgian Grand Prix",3.04,27,"Renault",FALSE
+2019,"2019-09-01","Belgian Grand Prix",3.62,44,"Mercedes",FALSE
+2019,"2019-09-01","Belgian Grand Prix",3.75,88,"Williams",FALSE
+2019,"2019-09-01","Belgian Grand Prix",4.14,7,"Alfa Romeo",FALSE
+2019,"2019-09-01","Belgian Grand Prix",5.14,18,"Racing Point",FALSE
+2019,"2019-09-01","Belgian Grand Prix",6.41,7,"Alfa Romeo",FALSE
+2019,"2019-09-01","Belgian Grand Prix",7.56,3,"Renault",TRUE
+2019,"2019-09-01","Belgian Grand Prix",18.45,7,"Alfa Romeo",TRUE
+2019,"2019-09-01","Belgian Grand Prix",38.27,55,"McLaren",TRUE
+2019,"2019-09-08","Italian Grand Prix",2.15,88,"Williams",FALSE
+2019,"2019-09-08","Italian Grand Prix",2.28,77,"Mercedes",FALSE
+2019,"2019-09-08","Italian Grand Prix",2.32,63,"Williams",FALSE
+2019,"2019-09-08","Italian Grand Prix",2.34,16,"Ferrari",FALSE
+2019,"2019-09-08","Italian Grand Prix",2.4,44,"Mercedes",FALSE
+2019,"2019-09-08","Italian Grand Prix",2.61,44,"Mercedes",FALSE
+2019,"2019-09-08","Italian Grand Prix",2.69,27,"Renault",FALSE
+2019,"2019-09-08","Italian Grand Prix",2.73,20,"Haas",FALSE
+2019,"2019-09-08","Italian Grand Prix",2.78,4,"McLaren",FALSE
+2019,"2019-09-08","Italian Grand Prix",2.79,3,"Renault",FALSE
+2019,"2019-09-08","Italian Grand Prix",2.83,33,"Red Bull",FALSE
+2019,"2019-09-08","Italian Grand Prix",2.84,5,"Ferrari",FALSE
+2019,"2019-09-08","Italian Grand Prix",2.9,18,"Racing Point",FALSE
+2019,"2019-09-08","Italian Grand Prix",3.07,10,"Toro Rosso",FALSE
+2019,"2019-09-08","Italian Grand Prix",3.1,8,"Haas",FALSE
+2019,"2019-09-08","Italian Grand Prix",3.14,7,"Alfa Romeo",FALSE
+2019,"2019-09-08","Italian Grand Prix",3.44,26,"Toro Rosso",FALSE
+2019,"2019-09-08","Italian Grand Prix",3.5,20,"Haas",FALSE
+2019,"2019-09-08","Italian Grand Prix",3.83,11,"Racing Point",FALSE
+2019,"2019-09-08","Italian Grand Prix",4.2,99,"Alfa Romeo",FALSE
+2019,"2019-09-08","Italian Grand Prix",4.45,55,"McLaren",TRUE
+2019,"2019-09-08","Italian Grand Prix",4.74,8,"Haas",FALSE
+2019,"2019-09-08","Italian Grand Prix",8.22,23,"Red Bull",TRUE
+2019,"2019-09-08","Italian Grand Prix",9.96,33,"Red Bull",TRUE
+2019,"2019-09-08","Italian Grand Prix",10.09,88,"Williams",TRUE
+2019,"2019-09-08","Italian Grand Prix",10.49,5,"Ferrari",TRUE
+2019,"2019-09-08","Italian Grand Prix",10.51,5,"Ferrari",TRUE
+2019,"2019-09-08","Italian Grand Prix",10.58,7,"Alfa Romeo",TRUE
+2019,"2019-09-22","Singapore Grand Prix",3.22,27,"Renault",FALSE
+2019,"2019-09-22","Singapore Grand Prix",11.58,63,"Williams",TRUE
+2019,"2019-09-22","Singapore Grand Prix",42.42,55,"McLaren",TRUE
+2019,"2019-09-22","Singapore Grand Prix",2.31,26,"Toro Rosso",FALSE
+2019,"2019-09-22","Singapore Grand Prix",2.8,11,"Racing Point",FALSE
+2019,"2019-09-22","Singapore Grand Prix",3.36,7,"Alfa Romeo",FALSE
+2019,"2019-09-22","Singapore Grand Prix",3.02,20,"Haas",FALSE
+2019,"2019-09-22","Singapore Grand Prix",3.02,5,"Ferrari",FALSE
+2019,"2019-09-22","Singapore Grand Prix",2.31,33,"Red Bull",FALSE
+2019,"2019-09-22","Singapore Grand Prix",2.47,16,"Ferrari",FALSE
+2019,"2019-09-22","Singapore Grand Prix",2.44,23,"Red Bull",FALSE
+2019,"2019-09-22","Singapore Grand Prix",4.3,4,"McLaren",FALSE
+2019,"2019-09-22","Singapore Grand Prix",2.24,88,"Williams",FALSE
+2019,"2019-09-22","Singapore Grand Prix",2.9,77,"Mercedes",FALSE
+2019,"2019-09-22","Singapore Grand Prix",3.05,8,"Haas",FALSE
+2019,"2019-09-22","Singapore Grand Prix",2.4,44,"Mercedes",FALSE
+2019,"2019-09-22","Singapore Grand Prix",3.04,18,"Racing Point",FALSE
+2019,"2019-09-22","Singapore Grand Prix",6.41,10,"Toro Rosso",FALSE
+2019,"2019-09-22","Singapore Grand Prix",2.8,99,"Alfa Romeo",FALSE
+2019,"2019-09-22","Singapore Grand Prix",4.07,3,"Renault",FALSE
+2019,"2019-09-22","Singapore Grand Prix",17.36,8,"Haas",TRUE
+2019,"2019-09-22","Singapore Grand Prix",2.79,27,"Renault",FALSE
+2019,"2019-09-22","Singapore Grand Prix",8.26,26,"Toro Rosso",FALSE
+2019,"2019-09-22","Singapore Grand Prix",4.41,55,"McLaren",FALSE
+2019,"2019-09-22","Singapore Grand Prix",2.63,99,"Alfa Romeo",FALSE
+2019,"2019-09-22","Singapore Grand Prix",12.12,18,"Racing Point",TRUE
+2019,"2019-09-22","Singapore Grand Prix",3.6,88,"Williams",FALSE
+2019,"2019-09-22","Singapore Grand Prix",2.91,18,"Racing Point",FALSE
+2019,"2019-09-22","Singapore Grand Prix",4.19,20,"Haas",FALSE
+2019,"2019-09-29","Russian Grand Prix",2.82,88,"Williams",FALSE
+2019,"2019-09-29","Russian Grand Prix",6.73,3,"Renault",TRUE
+2019,"2019-09-29","Russian Grand Prix",10.8,99,"Alfa Romeo",TRUE
+2019,"2019-09-29","Russian Grand Prix",2.73,88,"Williams",FALSE
+2019,"2019-09-29","Russian Grand Prix",7.26,27,"Renault",FALSE
+2019,"2019-09-29","Russian Grand Prix",2.24,4,"McLaren",FALSE
+2019,"2019-09-29","Russian Grand Prix",3.6,55,"McLaren",FALSE
+2019,"2019-09-29","Russian Grand Prix",2.55,16,"Ferrari",FALSE
+2019,"2019-09-29","Russian Grand Prix",3.24,11,"Racing Point",FALSE
+2019,"2019-09-29","Russian Grand Prix",3.04,5,"Ferrari",FALSE
+2019,"2019-09-29","Russian Grand Prix",3.07,10,"Toro Rosso",FALSE
+2019,"2019-09-29","Russian Grand Prix",3.55,20,"Haas",FALSE
+2019,"2019-09-29","Russian Grand Prix",3.14,18,"Racing Point",FALSE
+2019,"2019-09-29","Russian Grand Prix",3.66,26,"Toro Rosso",FALSE
+2019,"2019-09-29","Russian Grand Prix",2.51,44,"Mercedes",FALSE
+2019,"2019-09-29","Russian Grand Prix",3.19,99,"Alfa Romeo",FALSE
+2019,"2019-09-29","Russian Grand Prix",2.79,63,"Williams",FALSE
+2019,"2019-09-29","Russian Grand Prix",7.23,7,"Alfa Romeo",FALSE
+2019,"2019-09-29","Russian Grand Prix",2.57,77,"Mercedes",FALSE
+2019,"2019-09-29","Russian Grand Prix",3.12,33,"Red Bull",FALSE
+2019,"2019-09-29","Russian Grand Prix",2.69,23,"Red Bull",FALSE
+2019,"2019-09-29","Russian Grand Prix",2.79,27,"Renault",FALSE
+2019,"2019-09-29","Russian Grand Prix",2.61,26,"Toro Rosso",FALSE
+2019,"2019-09-29","Russian Grand Prix",2.5,16,"Ferrari",FALSE
+2019,"2019-10-13","Japanese Grand Prix",9.9,16,"Ferrari",TRUE
+2019,"2019-10-13","Japanese Grand Prix",5.06,4,"McLaren",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.64,23,"Red Bull",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.96,7,"Alfa Romeo",FALSE
+2019,"2019-10-13","Japanese Grand Prix",3.32,5,"Ferrari",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.77,8,"Haas",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.44,77,"Mercedes",FALSE
+2019,"2019-10-13","Japanese Grand Prix",3.37,20,"Haas",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.9,10,"Toro Rosso",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.9,18,"Racing Point",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.89,99,"Alfa Romeo",FALSE
+2019,"2019-10-13","Japanese Grand Prix",3.3,27,"Renault",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.38,11,"Racing Point",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.98,44,"Mercedes",FALSE
+2019,"2019-10-13","Japanese Grand Prix",5.76,88,"Williams",FALSE
+2019,"2019-10-13","Japanese Grand Prix",3.15,16,"Ferrari",FALSE
+2019,"2019-10-13","Japanese Grand Prix",3.51,4,"McLaren",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.84,63,"Williams",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.85,55,"McLaren",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.63,26,"Toro Rosso",FALSE
+2019,"2019-10-13","Japanese Grand Prix",3.11,3,"Renault",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.56,5,"Ferrari",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.52,23,"Red Bull",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.27,88,"Williams",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.65,77,"Mercedes",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.47,7,"Alfa Romeo",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.74,11,"Racing Point",FALSE
+2019,"2019-10-13","Japanese Grand Prix",3.14,44,"Mercedes",FALSE
+2019,"2019-10-13","Japanese Grand Prix",2.83,16,"Ferrari",FALSE
+2019,"2019-10-13","Japanese Grand Prix",3.06,20,"Haas",FALSE
+2019,"2019-10-13","Japanese Grand Prix",3.06,99,"Alfa Romeo",FALSE
+2019,"2019-10-27","Mexican Grand Prix",4.09,33,"Red Bull",TRUE
+2019,"2019-10-27","Mexican Grand Prix",2.79,10,"Toro Rosso",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.75,26,"Toro Rosso",FALSE
+2019,"2019-10-27","Mexican Grand Prix",3.36,4,"McLaren",TRUE
+2019,"2019-10-27","Mexican Grand Prix",2.17,23,"Red Bull",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.39,16,"Ferrari",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.66,55,"McLaren",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.82,7,"Alfa Romeo",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.74,27,"Renault",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.58,11,"Racing Point",FALSE
+2019,"2019-10-27","Mexican Grand Prix",22.64,99,"Alfa Romeo",FALSE
+2019,"2019-10-27","Mexican Grand Prix",4.8,88,"Williams",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.4,44,"Mercedes",FALSE
+2019,"2019-10-27","Mexican Grand Prix",3.23,63,"Williams",FALSE
+2019,"2019-10-27","Mexican Grand Prix",3.06,20,"Haas",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.57,77,"Mercedes",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.51,55,"McLaren",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.59,5,"Ferrari",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.82,18,"Racing Point",FALSE
+2019,"2019-10-27","Mexican Grand Prix",4.34,8,"Haas",FALSE
+2019,"2019-10-27","Mexican Grand Prix",6.2,16,"Ferrari",FALSE
+2019,"2019-10-27","Mexican Grand Prix",1.93,23,"Red Bull",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.48,26,"Toro Rosso",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.94,10,"Toro Rosso",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.31,3,"Renault",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.93,7,"Alfa Romeo",FALSE
+2019,"2019-10-27","Mexican Grand Prix",2.79,88,"Williams",FALSE
+2019,"2019-11-03","United States Grand Prix",10.42,23,"Red Bull",TRUE
+2019,"2019-11-03","United States Grand Prix",2.96,18,"Racing Point",FALSE
+2019,"2019-11-03","United States Grand Prix",2.64,88,"Williams",FALSE
+2019,"2019-11-03","United States Grand Prix",2.6,33,"Red Bull",FALSE
+2019,"2019-11-03","United States Grand Prix",3.22,77,"Mercedes",FALSE
+2019,"2019-11-03","United States Grand Prix",3.89,99,"Alfa Romeo",FALSE
+2019,"2019-11-03","United States Grand Prix",3.4,55,"McLaren",FALSE
+2019,"2019-11-03","United States Grand Prix",3.32,7,"Alfa Romeo",FALSE
+2019,"2019-11-03","United States Grand Prix",3.5,20,"Haas",FALSE
+2019,"2019-11-03","United States Grand Prix",3.59,4,"McLaren",FALSE
+2019,"2019-11-03","United States Grand Prix",3.18,10,"Red Bull",FALSE
+2019,"2019-11-03","United States Grand Prix",7.79,16,"Ferrari",FALSE
+2019,"2019-11-03","United States Grand Prix",2.02,23,"Red Bull",FALSE
+2019,"2019-11-03","United States Grand Prix",2.5,3,"Renault",FALSE
+2019,"2019-11-03","United States Grand Prix",6.22,26,"Toro Rosso",FALSE
+2019,"2019-11-03","United States Grand Prix",2.5,63,"Williams",FALSE
+2019,"2019-11-03","United States Grand Prix",2.49,44,"Mercedes",FALSE
+2019,"2019-11-03","United States Grand Prix",2.75,11,"Racing Point",FALSE
+2019,"2019-11-03","United States Grand Prix",3.23,8,"Haas",FALSE
+2019,"2019-11-03","United States Grand Prix",3.02,27,"Renault",FALSE
+2019,"2019-11-03","United States Grand Prix",4.01,18,"Racing Point",FALSE
+2019,"2019-11-03","United States Grand Prix",2.18,33,"Red Bull",FALSE
+2019,"2019-11-03","United States Grand Prix",2.45,77,"Mercedes",FALSE
+2019,"2019-11-03","United States Grand Prix",2.5,27,"Renault",FALSE
+2019,"2019-11-03","United States Grand Prix",3.04,26,"Toro Rosso",FALSE
+2019,"2019-11-03","United States Grand Prix",3.13,99,"Alfa Romeo",FALSE
+2019,"2019-11-03","United States Grand Prix",2.72,23,"Red Bull",FALSE
+2019,"2019-11-03","United States Grand Prix",3.55,7,"Alfa Romeo",FALSE
+2019,"2019-11-03","United States Grand Prix",3.36,20,"Haas",FALSE
+2019,"2019-11-03","United States Grand Prix",2.57,16,"Ferrari",FALSE
+2019,"2019-11-03","United States Grand Prix",4.6,4,"McLaren",FALSE
+2019,"2019-11-03","United States Grand Prix",7.37,63,"Williams",FALSE
+2019,"2019-11-03","United States Grand Prix",2.71,10,"Toro Rosso",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",1.82,33,"Red Bull",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.1,88,"Williams",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.12,33,"Red Bull",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.17,33,"Red Bull",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.2,63,"Williams",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.33,16,"Ferrari",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.36,5,"Ferrari",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.4,27,"Renault",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.47,26,"Toro Rosso",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.49,63,"Williams",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.55,55,"McLaren",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.57,10,"Toro Rosso",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.58,44,"Mercedes",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.58,20,"Haas",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.63,27,"Renault",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.63,23,"Red Bull",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.63,77,"Mercedes",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.64,5,"Ferrari",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.68,44,"Mercedes",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.71,77,"Mercedes",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.72,20,"Haas",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.72,18,"Racing Point",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.73,11,"Racing Point",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.74,99,"Alfa Romeo",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.79,27,"Renault",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.79,4,"McLaren",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.83,88,"Williams",TRUE
+2019,"2019-11-17","Brazilian Grand Prix",2.87,7,"Alfa Romeo",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.87,11,"Racing Point",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.88,63,"Williams",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",2.93,26,"Toro Rosso",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",3,8,"Haas",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",3.05,8,"Haas",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",3.09,23,"Red Bull",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",3.09,10,"Toro Rosso",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",3.24,7,"Alfa Romeo",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",3.25,99,"Alfa Romeo",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",3.33,44,"Mercedes",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",3.53,16,"Ferrari",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",3.65,4,"McLaren",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",4.18,88,"Williams",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",4.29,18,"Racing Point",FALSE
+2019,"2019-11-17","Brazilian Grand Prix",8.53,88,"Williams",TRUE
+2019,"2019-11-17","Brazilian Grand Prix",9.17,3,"Renault",TRUE
+2019,"2019-11-17","Brazilian Grand Prix",10.19,3,"Renault",TRUE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.06,33,"Red Bull",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.11,77,"Mercedes",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.37,55,"McLaren",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.39,88,"Williams",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.45,16,"Ferrari",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.5,20,"Haas",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.59,8,"Haas",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.6,16,"Ferrari",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.65,26,"Toro Rosso",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.68,27,"Renault",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.68,18,"Racing Point",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.68,3,"Renault",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.78,5,"Ferrari",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.88,23,"Red Bull",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.89,55,"McLaren",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.91,3,"Renault",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.98,11,"Racing Point",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",2.99,99,"Alfa Romeo",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",3.07,7,"Alfa Romeo",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",3.14,63,"Williams",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",3.26,44,"Mercedes",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",3.49,99,"Alfa Romeo",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",3.93,4,"McLaren",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",6.91,5,"Ferrari",FALSE
+2019,"2019-12-01","Abu Dhabi Grand Prix",9.42,18,"Racing Point",TRUE
+2019,"2019-12-01","Abu Dhabi Grand Prix",58.24,10,"Toro Rosso",TRUE
+2020,"2020-07-05","Austrian Grand Prix",2.1,23,"Red Bull",FALSE
+2020,"2020-07-05","Austrian Grand Prix",2.44,63,"Williams",FALSE
+2020,"2020-07-05","Austrian Grand Prix",2.52,44,"Mercedes",FALSE
+2020,"2020-07-05","Austrian Grand Prix",2.61,23,"Red Bull",FALSE
+2020,"2020-07-05","Austrian Grand Prix",2.72,7,"Alfa Romeo",TRUE
+2020,"2020-07-05","Austrian Grand Prix",2.73,31,"Renault",FALSE
+2020,"2020-07-05","Austrian Grand Prix",2.74,16,"Ferrari",FALSE
+2020,"2020-07-05","Austrian Grand Prix",2.8,26,"AlphaTauri",FALSE
+2020,"2020-07-05","Austrian Grand Prix",2.81,77,"Mercedes",FALSE
+2020,"2020-07-05","Austrian Grand Prix",2.81,11,"Racing Point",FALSE
+2020,"2020-07-05","Austrian Grand Prix",2.82,6,"Williams",FALSE
+2020,"2020-07-05","Austrian Grand Prix",2.84,99,"Alfa Romeo",FALSE
+2020,"2020-07-05","Austrian Grand Prix",2.95,4,"McLaren",FALSE
+2020,"2020-07-05","Austrian Grand Prix",2.95,55,"McLaren",FALSE
+2020,"2020-07-05","Austrian Grand Prix",3,6,"Williams",FALSE
+2020,"2020-07-05","Austrian Grand Prix",3.07,10,"AlphaTauri",FALSE
+2020,"2020-07-05","Austrian Grand Prix",3.17,5,"Ferrari",FALSE
+2020,"2020-07-05","Austrian Grand Prix",3.36,5,"Ferrari",FALSE
+2020,"2020-07-05","Austrian Grand Prix",3.37,16,"Ferrari",FALSE
+2020,"2020-07-05","Austrian Grand Prix",3.44,26,"AlphaTauri",FALSE
+2020,"2020-07-05","Austrian Grand Prix",4,8,"Haas",FALSE
+2020,"2020-07-05","Austrian Grand Prix",4.05,7,"Alfa Romeo",FALSE
+2020,"2020-07-05","Austrian Grand Prix",4.35,55,"McLaren",FALSE
+2020,"2020-07-05","Austrian Grand Prix",4.38,4,"McLaren",FALSE
+2020,"2020-07-05","Austrian Grand Prix",4.74,99,"Alfa Romeo",FALSE
+2020,"2020-07-12","Styrian Grand Prix",1.95,33,"Red Bull",FALSE
+2020,"2020-07-12","Styrian Grand Prix",2.18,33,"Red Bull",FALSE
+2020,"2020-07-12","Styrian Grand Prix",2.22,23,"Red Bull",FALSE
+2020,"2020-07-12","Styrian Grand Prix",2.39,77,"Mercedes",FALSE
+2020,"2020-07-12","Styrian Grand Prix",2.58,7,"Alfa Romeo",FALSE
+2020,"2020-07-12","Styrian Grand Prix",2.62,44,"Mercedes",FALSE
+2020,"2020-07-12","Styrian Grand Prix",2.8,63,"Williams",FALSE
+2020,"2020-07-12","Styrian Grand Prix",2.83,3,"Renault",FALSE
+2020,"2020-07-12","Styrian Grand Prix",2.85,26,"AlphaTauri",FALSE
+2020,"2020-07-12","Styrian Grand Prix",2.95,99,"Alfa Romeo",FALSE
+2020,"2020-07-12","Styrian Grand Prix",2.98,20,"Haas",FALSE
+2020,"2020-07-12","Styrian Grand Prix",3.04,55,"McLaren",FALSE
+2020,"2020-07-12","Styrian Grand Prix",3.06,10,"AlphaTauri",FALSE
+2020,"2020-07-12","Styrian Grand Prix",3.23,18,"Racing Point",FALSE
+2020,"2020-07-12","Styrian Grand Prix",3.28,6,"Williams",FALSE
+2020,"2020-07-12","Styrian Grand Prix",3.39,10,"AlphaTauri",FALSE
+2020,"2020-07-12","Styrian Grand Prix",3.46,8,"Haas",FALSE
+2020,"2020-07-12","Styrian Grand Prix",3.72,4,"McLaren",FALSE
+2020,"2020-07-12","Styrian Grand Prix",3.73,11,"Racing Point",FALSE
+2020,"2020-07-12","Styrian Grand Prix",7.27,55,"McLaren",FALSE
+2020,"2020-07-12","Styrian Grand Prix",20,16,"Ferrari",TRUE
+2020,"2020-07-19","Hungarian Grand Prix",2.04,33,"Red Bull",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.07,63,"Williams",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.09,63,"Williams",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.21,6,"Williams",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.23,6,"Williams",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.4,77,"Mercedes",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.43,77,"Mercedes",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.53,77,"Mercedes",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.56,33,"Red Bull",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.58,3,"Renault",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.68,5,"Ferrari",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.69,31,"Renault",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.73,7,"Alfa Romeo",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.74,99,"Alfa Romeo",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.77,11,"Racing Point",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.81,23,"Red Bull",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.83,18,"Racing Point",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.87,16,"Ferrari",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.94,63,"Williams",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.95,3,"Renault",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.97,16,"Ferrari",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",2.98,99,"Alfa Romeo",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.06,44,"Mercedes",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.07,26,"AlphaTauri",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.09,23,"Red Bull",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.1,44,"Mercedes",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.18,18,"Racing Point",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.19,8,"Haas",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.31,11,"Racing Point",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.36,55,"McLaren",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.53,10,"AlphaTauri",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.63,4,"McLaren",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.66,18,"Racing Point",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.67,44,"Mercedes",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.86,20,"Haas",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",3.89,99,"Alfa Romeo",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",4.01,31,"Renault",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",4.08,26,"AlphaTauri",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",4.68,4,"McLaren",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",6.31,6,"Williams",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",7.71,7,"Alfa Romeo",TRUE
+2020,"2020-07-19","Hungarian Grand Prix",7.89,55,"McLaren",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",8.57,6,"Williams",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",9.2,5,"Ferrari",FALSE
+2020,"2020-07-19","Hungarian Grand Prix",14.39,6,"Williams",FALSE
+2020,"2020-08-02","British Grand Prix",2.18,33,"Red Bull",FALSE
+2020,"2020-08-02","British Grand Prix",2.38,99,"Alfa Romeo",FALSE
+2020,"2020-08-02","British Grand Prix",2.38,44,"Mercedes",FALSE
+2020,"2020-08-02","British Grand Prix",2.41,23,"Red Bull",FALSE
+2020,"2020-08-02","British Grand Prix",2.45,77,"Mercedes",FALSE
+2020,"2020-08-02","British Grand Prix",2.46,33,"Red Bull",FALSE
+2020,"2020-08-02","British Grand Prix",2.67,55,"McLaren",FALSE
+2020,"2020-08-02","British Grand Prix",2.87,31,"Renault",FALSE
+2020,"2020-08-02","British Grand Prix",2.97,18,"Racing Point",FALSE
+2020,"2020-08-02","British Grand Prix",3.12,63,"Williams",FALSE
+2020,"2020-08-02","British Grand Prix",3.18,10,"AlphaTauri",FALSE
+2020,"2020-08-02","British Grand Prix",3.27,16,"Ferrari",FALSE
+2020,"2020-08-02","British Grand Prix",3.53,5,"Ferrari",FALSE
+2020,"2020-08-02","British Grand Prix",3.56,3,"Renault",FALSE
+2020,"2020-08-02","British Grand Prix",3.63,6,"Williams",FALSE
+2020,"2020-08-02","British Grand Prix",4.53,4,"McLaren",FALSE
+2020,"2020-08-02","British Grand Prix",6.57,77,"Mercedes",TRUE
+2020,"2020-08-02","British Grand Prix",6.75,8,"Haas",FALSE
+2020,"2020-08-02","British Grand Prix",7.62,23,"Red Bull",TRUE
+2020,"2020-08-02","British Grand Prix",9.59,7,"Alfa Romeo",FALSE
+2020,"2020-08-02","British Grand Prix",10.33,55,"McLaren",TRUE
+2020,"2020-08-02","British Grand Prix",17.95,7,"Alfa Romeo",TRUE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.03,23,"Red Bull",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.18,99,"Alfa Romeo",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.19,23,"Red Bull",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.22,77,"Mercedes",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.37,6,"Williams",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.4,26,"AlphaTauri",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.4,31,"Renault",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.44,3,"Renault",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.46,10,"AlphaTauri",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.48,27,"Racing Point",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.5,5,"Ferrari",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.51,77,"Mercedes",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.58,44,"Mercedes",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.59,4,"McLaren",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.6,10,"AlphaTauri",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.62,18,"Racing Point",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.68,3,"Renault",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.7,5,"Ferrari",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.71,18,"Racing Point",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.72,44,"Mercedes",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.79,6,"Williams",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.8,63,"Williams",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.83,26,"AlphaTauri",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.84,63,"Williams",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.87,20,"Haas",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.88,27,"Racing Point",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.88,27,"Racing Point",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.93,3,"Renault",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",2.96,99,"Alfa Romeo",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",3.09,33,"Red Bull",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",3.14,55,"McLaren",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",3.2,20,"Haas",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",3.21,63,"Williams",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",3.25,6,"Williams",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",3.29,33,"Red Bull",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",3.32,4,"McLaren",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",3.37,8,"Haas",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",3.37,16,"Ferrari",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",3.49,8,"Haas",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",3.63,7,"Alfa Romeo",FALSE
+2020,"2020-08-09","70th Anniversary Grand Prix",7.48,55,"McLaren",FALSE
+2020,"2020-08-16","Spanish Grand Prix",1.9,33,"Red Bull",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.04,33,"Red Bull",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.07,23,"Red Bull",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.19,23,"Red Bull",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.29,44,"Mercedes",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.32,7,"Alfa Romeo",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.36,6,"Williams",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.4,63,"Williams",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.43,3,"Renault",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.45,5,"Ferrari",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.51,18,"Racing Point",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.51,99,"Alfa Romeo",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.56,7,"Alfa Romeo",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.59,4,"McLaren",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.59,77,"Mercedes",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.66,18,"Racing Point",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.68,6,"Williams",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.75,77,"Mercedes",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.79,10,"AlphaTauri",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.82,4,"McLaren",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.84,26,"AlphaTauri",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.85,55,"McLaren",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.87,55,"McLaren",FALSE
+2020,"2020-08-16","Spanish Grand Prix",2.93,99,"Alfa Romeo",FALSE
+2020,"2020-08-16","Spanish Grand Prix",3,16,"Ferrari",FALSE
+2020,"2020-08-16","Spanish Grand Prix",3.03,77,"Mercedes",FALSE
+2020,"2020-08-16","Spanish Grand Prix",3.16,10,"AlphaTauri",FALSE
+2020,"2020-08-16","Spanish Grand Prix",3.19,31,"Renault",FALSE
+2020,"2020-08-16","Spanish Grand Prix",3.2,63,"Williams",FALSE
+2020,"2020-08-16","Spanish Grand Prix",3.2,8,"Haas",FALSE
+2020,"2020-08-16","Spanish Grand Prix",3.25,11,"Racing Point",FALSE
+2020,"2020-08-16","Spanish Grand Prix",3.64,26,"AlphaTauri",FALSE
+2020,"2020-08-16","Spanish Grand Prix",3.87,44,"Mercedes",FALSE
+2020,"2020-08-16","Spanish Grand Prix",3.95,20,"Haas",FALSE
+2020,"2020-08-16","Spanish Grand Prix",4.01,8,"Haas",FALSE
+2020,"2020-08-30","Belgian Grand Prix",2.37,6,"Williams",FALSE
+2020,"2020-08-30","Belgian Grand Prix",2.5,44,"Mercedes",FALSE
+2020,"2020-08-30","Belgian Grand Prix",2.52,23,"Red Bull",FALSE
+2020,"2020-08-30","Belgian Grand Prix",2.63,33,"Red Bull",FALSE
+2020,"2020-08-30","Belgian Grand Prix",2.64,5,"Ferrari",FALSE
+2020,"2020-08-30","Belgian Grand Prix",2.66,7,"Alfa Romeo",FALSE
+2020,"2020-08-30","Belgian Grand Prix",2.66,4,"McLaren",FALSE
+2020,"2020-08-30","Belgian Grand Prix",2.7,10,"AlphaTauri",FALSE
+2020,"2020-08-30","Belgian Grand Prix",2.79,11,"Racing Point",FALSE
+2020,"2020-08-30","Belgian Grand Prix",2.92,3,"Renault",FALSE
+2020,"2020-08-30","Belgian Grand Prix",3.03,31,"Renault",FALSE
+2020,"2020-08-30","Belgian Grand Prix",3.17,6,"Williams",FALSE
+2020,"2020-08-30","Belgian Grand Prix",3.27,8,"Haas",FALSE
+2020,"2020-08-30","Belgian Grand Prix",3.56,18,"Racing Point",FALSE
+2020,"2020-08-30","Belgian Grand Prix",3.58,77,"Mercedes",FALSE
+2020,"2020-08-30","Belgian Grand Prix",3.7,26,"AlphaTauri",FALSE
+2020,"2020-08-30","Belgian Grand Prix",3.7,20,"Haas",FALSE
+2020,"2020-08-30","Belgian Grand Prix",3.73,20,"Haas",FALSE
+2020,"2020-08-30","Belgian Grand Prix",5.09,16,"Ferrari",TRUE
+2020,"2020-08-30","Belgian Grand Prix",10.42,16,"Ferrari",TRUE
+2020,"2020-09-06","Italian Grand Prix",2.43,99,"Alfa Romeo",FALSE
+2020,"2020-09-06","Italian Grand Prix",2.68,55,"McLaren",FALSE
+2020,"2020-09-06","Italian Grand Prix",2.68,4,"McLaren",FALSE
+2020,"2020-09-06","Italian Grand Prix",2.79,10,"AlphaTauri",FALSE
+2020,"2020-09-06","Italian Grand Prix",2.83,7,"Alfa Romeo",FALSE
+2020,"2020-09-06","Italian Grand Prix",2.83,63,"Williams",FALSE
+2020,"2020-09-06","Italian Grand Prix",2.86,16,"Ferrari",FALSE
+2020,"2020-09-06","Italian Grand Prix",2.95,77,"Mercedes",FALSE
+2020,"2020-09-06","Italian Grand Prix",3.13,44,"Mercedes",FALSE
+2020,"2020-09-06","Italian Grand Prix",3.17,31,"Renault",FALSE
+2020,"2020-09-06","Italian Grand Prix",3.23,33,"Red Bull",FALSE
+2020,"2020-09-06","Italian Grand Prix",3.66,8,"Haas",FALSE
+2020,"2020-09-06","Italian Grand Prix",3.81,3,"Renault",FALSE
+2020,"2020-09-06","Italian Grand Prix",3.81,26,"AlphaTauri",FALSE
+2020,"2020-09-06","Italian Grand Prix",4.7,11,"Racing Point",FALSE
+2020,"2020-09-06","Italian Grand Prix",7.71,6,"Williams",FALSE
+2020,"2020-09-06","Italian Grand Prix",7.88,23,"Red Bull",TRUE
+2020,"2020-09-06","Italian Grand Prix",10.13,99,"Alfa Romeo",TRUE
+2020,"2020-09-06","Italian Grand Prix",10.24,44,"Mercedes",TRUE
+2020,"2020-09-06","Italian Grand Prix",18.27,20,"Haas",TRUE
+2020,"2020-09-13","Tuscan Grand Prix",2.02,23,"Red Bull",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.27,44,"Mercedes",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.33,23,"Red Bull",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.4,5,"Ferrari",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.44,3,"Renault",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.51,44,"Mercedes",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.59,26,"AlphaTauri",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.7,11,"Racing Point",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.74,77,"Mercedes",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.76,3,"Renault",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.78,5,"Ferrari",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.79,18,"Racing Point",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.85,4,"McLaren",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.92,77,"Mercedes",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",2.98,11,"Racing Point",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",3.01,26,"AlphaTauri",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",3.1,63,"Williams",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",3.14,16,"Ferrari",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",3.28,63,"Williams",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",3.3,8,"Haas",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",3.34,8,"Haas",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",3.4,16,"Ferrari",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",3.95,4,"McLaren",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",4,8,"Haas",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",8.47,7,"Alfa Romeo",FALSE
+2020,"2020-09-13","Tuscan Grand Prix",9.85,7,"Alfa Romeo",TRUE
+2020,"2020-09-13","Tuscan Grand Prix",12.84,5,"Ferrari",TRUE
+2020,"2020-09-13","Tuscan Grand Prix",12.94,7,"Alfa Romeo",FALSE
+2020,"2020-09-27","Russian Grand Prix",1.86,33,"Red Bull",FALSE
+2020,"2020-09-27","Russian Grand Prix",1.89,23,"Red Bull",FALSE
+2020,"2020-09-27","Russian Grand Prix",2,63,"Williams",FALSE
+2020,"2020-09-27","Russian Grand Prix",2.32,63,"Williams",FALSE
+2020,"2020-09-27","Russian Grand Prix",2.43,63,"Williams",FALSE
+2020,"2020-09-27","Russian Grand Prix",2.45,6,"Williams",FALSE
+2020,"2020-09-27","Russian Grand Prix",2.47,26,"AlphaTauri",FALSE
+2020,"2020-09-27","Russian Grand Prix",2.57,5,"Ferrari",FALSE
+2020,"2020-09-27","Russian Grand Prix",2.66,11,"Racing Point",FALSE
+2020,"2020-09-27","Russian Grand Prix",2.67,99,"Alfa Romeo",FALSE
+2020,"2020-09-27","Russian Grand Prix",2.67,10,"AlphaTauri",FALSE
+2020,"2020-09-27","Russian Grand Prix",2.68,10,"AlphaTauri",FALSE
+2020,"2020-09-27","Russian Grand Prix",2.79,77,"Mercedes",FALSE
+2020,"2020-09-27","Russian Grand Prix",2.83,8,"Haas",FALSE
+2020,"2020-09-27","Russian Grand Prix",2.98,8,"Haas",FALSE
+2020,"2020-09-27","Russian Grand Prix",3.03,20,"Haas",FALSE
+2020,"2020-09-27","Russian Grand Prix",3.03,23,"Red Bull",FALSE
+2020,"2020-09-27","Russian Grand Prix",3.05,31,"Renault",FALSE
+2020,"2020-09-27","Russian Grand Prix",3.35,16,"Ferrari",FALSE
+2020,"2020-09-27","Russian Grand Prix",3.71,3,"Renault",FALSE
+2020,"2020-09-27","Russian Grand Prix",4.67,4,"McLaren",FALSE
+2020,"2020-09-27","Russian Grand Prix",6.29,7,"Alfa Romeo",FALSE
+2020,"2020-09-27","Russian Grand Prix",8.52,4,"McLaren",FALSE
+2020,"2020-09-27","Russian Grand Prix",14.47,44,"Mercedes",TRUE
+2020,"2020-10-11","Eifel Grand Prix",1.92,33,"Red Bull",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.27,63,"Williams",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.48,4,"McLaren",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.49,23,"Red Bull",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.52,77,"Mercedes",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.53,27,"Racing Point",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.59,26,"AlphaTauri",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.62,33,"Red Bull",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.63,3,"Renault",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.63,27,"Racing Point",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.64,11,"Racing Point",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.77,7,"Alfa Romeo",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.8,16,"Ferrari",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.82,5,"Ferrari",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.85,20,"Haas",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.87,55,"McLaren",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.87,10,"AlphaTauri",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.9,11,"Racing Point",FALSE
+2020,"2020-10-11","Eifel Grand Prix",2.93,20,"Haas",FALSE
+2020,"2020-10-11","Eifel Grand Prix",3.02,99,"Alfa Romeo",FALSE
+2020,"2020-10-11","Eifel Grand Prix",3.07,55,"McLaren",FALSE
+2020,"2020-10-11","Eifel Grand Prix",3.13,3,"Renault",FALSE
+2020,"2020-10-11","Eifel Grand Prix",3.27,44,"Mercedes",FALSE
+2020,"2020-10-11","Eifel Grand Prix",3.33,16,"Ferrari",FALSE
+2020,"2020-10-11","Eifel Grand Prix",3.36,99,"Alfa Romeo",FALSE
+2020,"2020-10-11","Eifel Grand Prix",3.51,10,"AlphaTauri",FALSE
+2020,"2020-10-11","Eifel Grand Prix",3.62,8,"Haas",FALSE
+2020,"2020-10-11","Eifel Grand Prix",4.04,6,"Williams",FALSE
+2020,"2020-10-11","Eifel Grand Prix",4.23,6,"Williams",FALSE
+2020,"2020-10-11","Eifel Grand Prix",4.26,44,"Mercedes",FALSE
+2020,"2020-10-11","Eifel Grand Prix",4.45,5,"Ferrari",FALSE
+2020,"2020-10-11","Eifel Grand Prix",10.47,26,"AlphaTauri",TRUE
+2020,"2020-10-11","Eifel Grand Prix",13.53,7,"Alfa Romeo",TRUE
+2020,"2020-10-25","Portuguese Grand Prix",1.86,23,"Red Bull",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",1.96,33,"Red Bull",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",2.1,23,"Red Bull",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",2.3,11,"Racing Point",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",2.35,99,"Alfa Romeo",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",2.48,77,"Mercedes",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",2.61,6,"Williams",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",2.62,5,"Ferrari",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",2.71,16,"Ferrari",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",2.75,20,"Haas",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",2.79,44,"Mercedes",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",2.86,8,"Haas",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",2.92,55,"McLaren",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",2.92,11,"Racing Point",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",3.01,10,"AlphaTauri",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",3.04,3,"Renault",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",3.06,26,"AlphaTauri",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",3.8,4,"McLaren",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",4.53,31,"Renault",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",5.1,7,"Alfa Romeo",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",8.68,26,"AlphaTauri",TRUE
+2020,"2020-10-25","Portuguese Grand Prix",8.91,63,"Williams",FALSE
+2020,"2020-10-25","Portuguese Grand Prix",10.79,4,"McLaren",TRUE
+2020,"2020-10-25","Portuguese Grand Prix",12.84,18,"Racing Point",TRUE
+2020,"2020-10-25","Portuguese Grand Prix",13.72,18,"Racing Point",TRUE
+2020,"2020-11-01","Emilia Romagna Grand Prix",1.93,23,"Red Bull",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.15,23,"Red Bull",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.16,33,"Red Bull",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.4,77,"Mercedes",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.46,63,"Williams",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.49,4,"McLaren",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.55,6,"Williams",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.56,5,"Ferrari",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.57,26,"AlphaTauri",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.58,7,"Alfa Romeo",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.6,55,"McLaren",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.71,99,"Alfa Romeo",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.72,11,"Racing Point",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.77,16,"Ferrari",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.77,26,"AlphaTauri",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.8,8,"Haas",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.85,31,"Renault",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.87,77,"Mercedes",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.88,4,"McLaren",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.89,3,"Renault",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.91,20,"Haas",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",2.96,44,"Mercedes",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",3.2,11,"Racing Point",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",3.48,44,"Mercedes",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",3.65,55,"McLaren",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",3.66,8,"Haas",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",3.97,18,"Racing Point",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",8.93,18,"Racing Point",TRUE
+2020,"2020-11-01","Emilia Romagna Grand Prix",10.7,18,"Racing Point",FALSE
+2020,"2020-11-01","Emilia Romagna Grand Prix",13.18,5,"Ferrari",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.03,33,"Red Bull",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.08,23,"Red Bull",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.33,26,"AlphaTauri",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.41,4,"McLaren",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.42,63,"Williams",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.43,23,"Red Bull",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.53,31,"Renault",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.6,3,"Renault",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.62,7,"Alfa Romeo",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.64,3,"Renault",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.68,77,"Mercedes",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.84,63,"Williams",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.86,5,"Ferrari",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.87,55,"McLaren",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.88,44,"Mercedes",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.9,55,"McLaren",FALSE
+2020,"2020-11-15","Turkish Grand Prix",2.98,18,"Racing Point",FALSE
+2020,"2020-11-15","Turkish Grand Prix",3.06,16,"Ferrari",FALSE
+2020,"2020-11-15","Turkish Grand Prix",3.22,18,"Racing Point",FALSE
+2020,"2020-11-15","Turkish Grand Prix",3.26,77,"Mercedes",FALSE
+2020,"2020-11-15","Turkish Grand Prix",3.31,10,"AlphaTauri",FALSE
+2020,"2020-11-15","Turkish Grand Prix",3.41,16,"Ferrari",FALSE
+2020,"2020-11-15","Turkish Grand Prix",3.41,10,"AlphaTauri",FALSE
+2020,"2020-11-15","Turkish Grand Prix",3.46,6,"Williams",FALSE
+2020,"2020-11-15","Turkish Grand Prix",3.63,20,"Haas",FALSE
+2020,"2020-11-15","Turkish Grand Prix",3.76,33,"Red Bull",FALSE
+2020,"2020-11-15","Turkish Grand Prix",4.03,33,"Red Bull",FALSE
+2020,"2020-11-15","Turkish Grand Prix",4.3,99,"Alfa Romeo",FALSE
+2020,"2020-11-15","Turkish Grand Prix",4.52,4,"McLaren",FALSE
+2020,"2020-11-15","Turkish Grand Prix",4.6,31,"Renault",FALSE
+2020,"2020-11-15","Turkish Grand Prix",4.98,11,"Racing Point",FALSE
+2020,"2020-11-15","Turkish Grand Prix",5.17,20,"Haas",TRUE
+2020,"2020-11-15","Turkish Grand Prix",5.34,5,"Ferrari",FALSE
+2020,"2020-11-15","Turkish Grand Prix",5.73,8,"Haas",FALSE
+2020,"2020-11-15","Turkish Grand Prix",9.91,7,"Alfa Romeo",FALSE
+2020,"2020-11-15","Turkish Grand Prix",10.6,8,"Haas",FALSE
+2020,"2020-11-15","Turkish Grand Prix",10.82,7,"Alfa Romeo",FALSE
+2020,"2020-11-15","Turkish Grand Prix",14.78,6,"Williams",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.16,23,"Red Bull",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.16,63,"Williams",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.19,23,"Red Bull",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.25,33,"Red Bull",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.29,99,"Alfa Romeo",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.33,6,"Williams",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.35,31,"Renault",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.43,44,"Mercedes",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.55,11,"Racing Point",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.55,6,"Williams",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.58,44,"Mercedes",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.62,26,"AlphaTauri",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.65,77,"Mercedes",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.7,11,"Racing Point",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.72,33,"Red Bull",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.76,77,"Mercedes",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.76,4,"McLaren",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.8,16,"Ferrari",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.84,55,"McLaren",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.86,10,"AlphaTauri",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.93,5,"Ferrari",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.96,77,"Mercedes",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",2.97,3,"Renault",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",3.01,4,"McLaren",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",3.13,3,"Renault",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",3.15,16,"Ferrari",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",3.39,7,"Alfa Romeo",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",3.43,31,"Renault",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",3.53,99,"Alfa Romeo",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",3.62,5,"Ferrari",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",3.69,20,"Haas",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",3.69,20,"Haas",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",3.94,55,"McLaren",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",5.17,33,"Red Bull",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",5.38,63,"Williams",FALSE
+2020,"2020-11-29","Bahrain Grand Prix",10.2,7,"Alfa Romeo",TRUE
+2020,"2020-11-29","Bahrain Grand Prix",15.58,20,"Haas",TRUE
+2020,"2020-11-29","Bahrain Grand Prix",15.58,26,"AlphaTauri",TRUE
+2020,"2020-12-06","Sakhir Grand Prix",1.9,23,"Red Bull",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.09,23,"Red Bull",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.36,63,"Mercedes",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.4,26,"AlphaTauri",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.46,11,"Racing Point",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.46,63,"Mercedes",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.46,77,"Mercedes",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.48,31,"Renault",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.51,6,"Williams",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.52,55,"McLaren",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.55,26,"AlphaTauri",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.57,7,"Alfa Romeo",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.65,18,"Racing Point",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.7,7,"Alfa Romeo",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.75,4,"McLaren",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.79,89,"Williams",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.8,63,"Mercedes",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.81,3,"Renault",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",2.82,99,"Alfa Romeo",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",3.01,99,"Alfa Romeo",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",3.03,10,"AlphaTauri",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",3.05,11,"Racing Point",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",3.09,10,"AlphaTauri",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",3.11,4,"McLaren",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",3.13,3,"Renault",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",3.24,5,"Ferrari",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",3.39,55,"McLaren",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",3.46,20,"Haas",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",3.53,20,"Haas",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",3.78,51,"Haas",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",3.83,89,"Williams",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",4.29,51,"Haas",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",4.59,5,"Ferrari",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",5.37,63,"Mercedes",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",5.41,51,"Haas",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",6.52,5,"Ferrari",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",6.55,7,"Alfa Romeo",FALSE
+2020,"2020-12-06","Sakhir Grand Prix",17.46,89,"Williams",TRUE
+2020,"2020-12-06","Sakhir Grand Prix",27.47,77,"Mercedes",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",2.36,33,"Red Bull",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",2.48,6,"Williams",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",2.49,31,"Renault",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",2.52,77,"Mercedes",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",2.58,4,"McLaren",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",2.61,99,"Alfa Romeo",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",2.62,23,"Red Bull",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",2.91,44,"Mercedes",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",2.92,63,"Williams",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",2.95,18,"Racing Point",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",3.03,55,"McLaren",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",3.18,16,"Ferrari",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",3.19,10,"AlphaTauri",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",3.27,7,"Alfa Romeo",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",3.28,5,"Ferrari",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",3.42,26,"AlphaTauri",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",3.57,20,"Haas",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",3.58,3,"Renault",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",3.88,20,"Haas",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",3.92,6,"Williams",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",4.24,51,"Haas",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",7.06,51,"Haas",FALSE
+2020,"2020-12-13","Abu Dhabi Grand Prix",9.33,51,"Haas",FALSE
