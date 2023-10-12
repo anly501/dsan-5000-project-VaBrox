@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.5.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.5" series="f1" url="http://ergast.com/api/f1/2020/5/pitstops" limit="30" offset="0" total="41">
+	<RaceTable season="2020" round="5">
+		<Race season="2020" round="5" url="http://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix">
+			<RaceName>70th Anniversary Grand Prix</RaceName>
+			<Circuit circuitId="silverstone" url="http://en.wikipedia.org/wiki/Silverstone_Circuit">
+				<CircuitName>Silverstone Circuit</CircuitName>
+				<Location lat="52.0786" long="-1.01694">
+					<Locality>Silverstone</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-08-09</Date>
+			<Time>13:10:00Z</Time>
+			<PitStopsList>
+				<PitStop driverId="albon" stop="1" lap="6" time="14:22:39" duration="28.417"/>
+				<PitStop driverId="gasly" stop="1" lap="7" time="14:24:09" duration="28.356"/>
+				<PitStop driverId="giovinazzi" stop="1" lap="7" time="14:24:23" duration="27.892"/>
+				<PitStop driverId="russell" stop="1" lap="8" time="14:25:59" duration="28.391"/>
+				<PitStop driverId="kevin_magnussen" stop="1" lap="9" time="14:27:31" duration="28.934"/>
+				<PitStop driverId="latifi" stop="1" lap="9" time="14:27:35" duration="28.696"/>
+				<PitStop driverId="norris" stop="1" lap="12" time="14:31:56" duration="27.949"/>
+				<PitStop driverId="bottas" stop="1" lap="13" time="14:33:10" duration="28.408"/>
+				<PitStop driverId="hamilton" stop="1" lap="14" time="14:34:45" duration="28.406"/>
+				<PitStop driverId="ricciardo" stop="1" lap="14" time="14:34:58" duration="28.587"/>
+				<PitStop driverId="hulkenberg" stop="1" lap="15" time="14:36:26" duration="28.981"/>
+				<PitStop driverId="grosjean" stop="1" lap="17" time="14:40:00" duration="29.377"/>
+				<PitStop driverId="stroll" stop="1" lap="18" time="14:41:04" duration="28.235"/>
+				<PitStop driverId="leclerc" stop="1" lap="18" time="14:41:13" duration="29.419"/>
+				<PitStop driverId="kvyat" stop="1" lap="19" time="14:43:00" duration="28.036"/>
+				<PitStop driverId="kevin_magnussen" stop="2" lap="20" time="14:45:03" duration="29.389"/>
+				<PitStop driverId="sainz" stop="1" lap="22" time="14:47:30" duration="35.864"/>
+				<PitStop driverId="ocon" stop="1" lap="22" time="14:47:36" duration="28.093"/>
+				<PitStop driverId="vettel" stop="1" lap="22" time="14:47:40" duration="28.167"/>
+				<PitStop driverId="gasly" stop="2" lap="23" time="14:49:25" duration="28.306"/>
+				<PitStop driverId="russell" stop="2" lap="24" time="14:51:11" duration="28.331"/>
+				<PitStop driverId="max_verstappen" stop="1" lap="26" time="14:53:04" duration="29.115"/>
+				<PitStop driverId="ricciardo" stop="2" lap="26" time="14:53:46" duration="28.167"/>
+				<PitStop driverId="raikkonen" stop="1" lap="26" time="14:54:13" duration="29.296"/>
+				<PitStop driverId="latifi" stop="2" lap="26" time="14:54:19" duration="28.086"/>
+				<PitStop driverId="norris" stop="2" lap="29" time="14:58:32" duration="28.874"/>
+				<PitStop driverId="hulkenberg" stop="2" lap="30" time="14:59:44" duration="28.386"/>
+				<PitStop driverId="albon" stop="2" lap="30" time="15:00:01" duration="27.858"/>
+				<PitStop driverId="stroll" stop="2" lap="31" time="15:01:17" duration="27.974"/>
+				<PitStop driverId="max_verstappen" stop="2" lap="32" time="15:02:28" duration="28.986"/>
+			</PitStopsList>
+		</Race>
+	</RaceTable>
+</MRData>
