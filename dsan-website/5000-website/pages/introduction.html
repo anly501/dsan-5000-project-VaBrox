@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+<div id="introduction" class="section level1">
+<h1>Introduction</h1>
+<p>Winning a race is the result of a combination of multiple factors,  
+    such as the driver's skill, the car and engine performance, the pit stop strategy, the tire compounds, the weather, 
+    the competitors, and several random events that may occur during the race (Heine, 2021). We will look into the only calculatable  
+    variable that could affects a race: pit stop strategy. Pit stop strategy include the tire compounds strategy, which decided which 
+    laps the car should change its tires and which tires should be selected in order to obtain or maintain a better position in the 
+    race. Tire compounds decide how fast the lap time is, however, faster tire compound have shorter life of grip which means 
+    the car needs to back to the pit and change another set of tires. Teams often use different pit stop strategies that using 
+    different tire compound to achieve their own goal. Therefore adds an element of uncertainty which needs to be optimazed to help
+    teams find the best timing and laps to pit stop.
+</p>
+
+<P>
+This analysis will look into F1 pit stop data and gain a better understanding of what is a better pit stop strategy.
+</P>
+
+<h2>Questions planed to answer:</h2>
+<p>* How did pit stop duration change over time?</p>
+<P>* Is there a relationship between pit stop durations and constructor/team?</P>
+<P>* Is there a relationship between pit stop durations and race circuit?</P>
+<P>* What is the time spent in the pit lane as a percentage of the race?</P>
+<P>* Who is the best constructor on pit stop performance?</P>
+<P>* Does the pit stop time affect the race?</P>
+<P>* What is the lap number that most car choose to pit stop?</P>
+<P>* Is car doing more pit stops have advantages on those who do less pit stops?</P>
+<P>* Who have the fastest pit stop and did he get championship that year? </P>
+<P>* Is the pit stop time consistent with dirver's lap time?</P>
+</div>
+
+<p>Here are some references:</p>
+<!-- Citation  -->
+<p><cite class="citation">[Heine, 2021]</cite> - Oscar F. Carrasco Heine. (2021). On the Optimization of Pit-Stop Strategies via Dynamic Programming.</p>
+<p><cite class="citation">[Martinetti, 2021]</cite> - Alberto Martinetti. (2021). Gone in 2s: a deep dive into perfection analysing the collaborative maintenance pitstop of Formula 1. Journal of Quality in Maintenance Engineering.</p>
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
