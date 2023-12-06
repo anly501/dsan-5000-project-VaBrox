@@ -1,0 +1,8 @@
+---
+title: "All data used for this project"
+---
+
+The raw data sources:
+https://docs.google.com/spreadsheets/d/1UmrM2zPuqpjiYYvR1XnglQnoP_QI2tyDMA5Eaz99Q1w/edit#gid=0
+
+http://ergast.com/api/f1/2020/5/pitstops

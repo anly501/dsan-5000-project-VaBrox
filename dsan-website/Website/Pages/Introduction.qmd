@@ -1,0 +1,49 @@
+---
+title: "Introduction of F1"
+---
+![Alt text for the image](../images/F1.jpg)
+Winning a race is the result of a combination of multiple factors, such as the driver's skill, the car and engine performance, the pit stop strategy, the tire compounds, the weather, the competitors, and several random events that may occur during the race (Heine, 2021). We will look into the only calculatable variable that could affects a race: pit stop strategy. Pit stop strategy include the tire compounds strategy, which decided which laps the car should change its tires and which tires should be selected in order to obtain or maintain a better position in the race. Tire compounds decide how fast the lap time is, however, faster tire compound have shorter life of grip which means the car needs to back to the pit and change another set of tires. Teams often use different pit stop strategies that using different tire compound to achieve their own goal. Therefore adds an element of uncertainty which needs to be optimazed to help teams find the best timing and laps to pit stop.
+
+
+![Alt text for the image](../images/Max.jpeg)
+Here is Max Verstappen The three times World Dirver Champion by now, kicking his bursted tire in the Azerbaijan Grand Prix in year 2021. Max was kicking the bursted tire to raged on his tire, showing the importance of tire endurance in a race.
+
+This analysis will look into F1 pit stop data and gain a better understanding of what is a better pit stop strategy.
+
+Questions planed to answer:
+
+* How did pit stop duration change over time?
+    + The overall pit stop duration would be approximately the same over time for one team in a race. Actions would cause increasing pit stop duration would be human error made by the driver or the team engineerings.
+
+* Is there a relationship between pit stop durations and constructor/team?
+    + Yes, observation in the EDA shows that there is a relationship between pit stop durations and constructors. Although it remains a weak relationship, still prove that there is a slight relation. 
+
+* Is there a relationship between pit stop durations and race circuit?
+    + No, there is no obvious relationship between pit stop durations and race circuit since they pit stop durations are mostly depend on the driver and engineerings which would be perform consistantly in all race except some occasionally mistakes. Therefore, pit stop durations is not related to race circuit.
+
+* What is the time spent in the pit lane as a percentage of the race for a driver?
+    + Average pit stop duration in the pit lane for all race circuits is about 26 seconds and each driver do a 1.5 times pit stops in a race, and the mean race time for all race circuits is approaximately 6000 seconds. Therefore, time spent in the pit lance as a percentage of the race for a driver would be 0.65%.
+
+* Who is the best constructor on pit stop performance?
+    + The overall best constructor on pit stop performance in term of pit stop durations would be the Red Bull Racing.
+
+* Does the pit stop time affect the race?
+    + Definitely yes, the pit stop durations would directly affects the race strategies for the team and usually a shorter pit stop duration would give more flexible time window for the next pit stop or sometimes undercut the rival.  
+
+* What is the lap number that most car choose to pit stop?
+    + The lap number that most car choose to pit stop is actually dynamic. Pit stop timing need to be carefully designed before the race since each circuit is unique and have different time window for pit stop, however, there will always have troubles like accidents, safety cars, or even red flags that recalls all the cars back. Therefore, there is no obvious lap number that most car choose to pit stop, but the lap number to pit stop is a normal distribution that usually centered on the half of the overall lap numbers for a circuits. 
+
+* Is car doing more pit stops have advantages on those who do less pit stops?
+    + Technically yes, but different car have different performance on the same formula or tire. Softer tire have more friction but also easier to be wore out. Alfa Romeo team this season had awful performance using soft and medium tire compare to other teams, but their performance on hard tire would out-perform others a lot which is quite strange to see. Back to the question, pit stop is dependent on the team performance on tire, which is unimagable difficult for me to do a thorough analysis on it. 
+
+* Who have the fastest pit stop and did he get championship that year?
+    + Current fastest pit stop was made during lap 27 of Qatar Grand Prix by Lando Norris from McLaren in the 2023 season. However, he did not get the World Driver Champion this year.
+
+* Is the pit stop time consistent with driver's lap time?
+    + There is clear relationship between pit stop time and driver's lap time.
+
+Here are some references:
+
+[Heine, 2021] - Oscar F. Carrasco Heine. (2021). On the Optimization of Pit-Stop Strategies via Dynamic Programming.
+
+[Martinetti, 2021] - Alberto Martinetti. (2021). Gone in 2s: a deep dive into perfection analysing the collaborative maintenance pitstop of Formula 1. Journal of Quality in Maintenance Engineering.

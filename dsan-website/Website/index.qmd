@@ -1,0 +1,52 @@
+---
+title: "About Me"
+---
+<html>
+    
+<head>
+    <title>5000 project</title>
+
+ 
+</head>
+
+
+<body>
+
+
+<!-- USE A TABLE TO ORGANIZE/FORMAT THE WEBPAGE -->
+<table>
+    <!--TABLE ROW-1-->
+   <tr>
+      <!--ROW-1 COL-1-->
+      <td>
+            <img src="images/IMG_5231.jpeg" width="600" height="450">
+      </td>
+      
+      <!--ROW-1 COL-2-->
+      <td> 
+        <p> Kaiyang Li kl1106</p>
+        <p  style="font-size:14px;"> I am Kaiyang Li from Zhengzhou City China. I did my undergraduate in Statistics at Rutgers New Jersey. I am into cars and love modifying them but unfortunately, I just sold my car since it is really inconvenient to own a car in DC. I sometimes work out and do some weight lifting still looking for a partner so just text me if you are also looking for a reliable spot partner. </p>
+
+      </td>
+         
+         
+   </tr>
+
+    <!--ROW-2-->
+   <tr>
+      <!--ROW-2 COL-1-->
+      <td>
+    <h2>Academic Interests</h2>  
+    <p> - As for now, I am interested in the data analytics track since I want to work as a strategy engineer in a racing team, which helps the team on the part of making strategic pit stops in a race. </p> 
+
+  <p>2023-Current: Georgetown University </p> 
+  <p>2019-2022: Rutges, The State University of New Jersey </p> 
+  <p>2018-2019: Miami University</p> 
+
+    </tr>
+   
+</table>
+
+</body>
+
+</html>

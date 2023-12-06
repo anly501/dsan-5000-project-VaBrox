@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "DSAN-5000: Project"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Pages/Introduction.qmd
+        text: Introduction
+      - href: Pages/Code.qmd
+        text: Code
+      - href: Pages/Data.qmd
+        text: Data
+      - href: Pages/Data Gathering.qmd
+        text: Data Gathering
+      - href: Pages/Data Cleaning.qmd
+        text: Data Cleaning
+      - text: Classification
+        menu:
+          - href: Pages/Naive Bayes.qmd
+            text: Naive Bayes
+          - href: Pages/Feature selection for record data.ipynb
+            text: Feature Selection/NB For Recrod Data
+          - href: Pages/Feature selection for text data.ipynb
+            text: Feature Selection/NB For Text Data          
+      - href: Pages/EDA process.ipynb
+        text: Data Exploration
+      - href: Pages/Clustering.ipynb
+        text: Clustering
+      - href: Pages/Dimensionality Reduction.ipynb
+        text: Dimenionality Reduction
+      - href: Pages/Decision Tree.ipynb
+        text: Decision Tree
+      - href: Pages/Conclusion.qmd
+        text: Conclusion
+format:
+  html:
+    theme: sketchy
+    toc: true
+
+

@@ -1,0 +1,27 @@
+/* Styles that apply to all devices */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Styles for devices with a width of 600px or more (typically desktops) */
+@media (min-width: 600px) {
+    .content {
+        width: 80%;
+        margin: auto;
+    }
+}
+
+/* Styles for devices with a width less than 600px (typically mobile devices) */
+@media (max-width: 599px) {
+    .content {
+        width: 95%;
+        margin: auto;
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
