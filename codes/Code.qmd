@@ -1,0 +1,18 @@
+---
+title: "Code for cleaning data"
+---
+
+Data collected using Python API and cleaning process
+https://github.com/anly501/dsan-5000-project-VaBrox/blob/main/codes/01-data-gathering/pythonClean.py
+
+Data collected using R API and cleaning process
+https://github.com/anly501/dsan-5000-project-VaBrox/blob/main/codes/01-data-gathering/rClean.R
+
+EDA process
+https://github.com/anly501/dsan-5000-project-VaBrox/blob/main/codes/EDA%20process.ipynb
+
+Feature selection and NB for record data
+https://github.com/anly501/dsan-5000-project-VaBrox/blob/main/codes/Feature%20selection%20for%20record%20data.ipynb
+
+Feature selection and NB for text data
+https://github.com/anly501/dsan-5000-project-VaBrox/blob/main/codes/Feature%20selection%20for%20text%20data.ipynb

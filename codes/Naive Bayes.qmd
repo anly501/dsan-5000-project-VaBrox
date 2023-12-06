@@ -1,0 +1,52 @@
+---
+title: "Introduction of Naive Bayes"
+---
+What is Naive Bayes classification
+Naive Bayes is a classification algorithm based on Bayes' theorem, which is a fundamental theorem in probability theory. It being called Naive is because it assumes that each input variable is independent. This is a strong assumption and unrealistic for real data; however, the technique is very effective on a large range of complex problems.
+
+How is Naive Bayes classification works
+1. Model traning
+During the training phase, the algorithm calculates the probabilities of the different classes in the training data (the prior probabilities). It also calculates the conditional probabilities of each feature given the class.
+
+2. Assumption of Independence:
+Naive Bayes assumes that the features are independent given the class. This means that the presence of a particular feature does not affect the presence of any other feature, as long as the class is known.
+
+3. Making Predictions:
+To make a prediction for a new data point, the algorithm calculates the posterior probability for each class, using Bayes' theorem. The class with the highest posterior probability is the output prediction.
+
+The probabilistic nature of Naive Bayes
+The algorithm uses the probabilities calculated from the training data to make predictions on new, unseen data. Hereâ€™s how it works:
+
+1. Calculate Prior Probabilities:
+It starts by calculating the prior probabilities of each class in the training data, P(A)
+
+2. Calculate Likelihoods:
+It calculates the likelihood of each feature given each class, P(B|A)
+
+3. Assume Feature Independence:
+Naive Bayes assumes that the features are independent given the class. This means that the presence of one feature does not affect the presence of another, as long as we know the class.
+
+4. Calculate Posterior Probabilities:
+For a new data point, it uses Bayesâ€™ theorem to calculate the posterior probability of each class given the observed features, P(A|B)
+
+5. Make Prediction:
+The class with the highest posterior probability is the predicted class.
+
+Bayes' thorem foundation
+The foundation of Bayes' theorem lies in conditional probability. It provides a way to revise existing predictions or theories (priors) given new evidence. In the context of statistics and machine learning, this is especially powerful as it provides a framework for updating probabilities when new data is observed.
+
+Different variants of Naive Bayes and when to use each
+1. Gaussian Naive Bayes:
+Assumes that the continuous values associated with each class are distributed according to a Gaussian (normal) distribution. Use Gaussian Naive Bayes when your features are continuous and you can assume a Gaussian distribution. This is commonly used in problems like text classification where features are related to word frequencies or other count data.
+
+2. Multinomial Naive Bayes:
+Assumes that features represent counts or frequency of occurrence of an event. The value of the feature is the count of the number of times a particular event or value has occurred. Use Multinomial Naive Bayes for discrete data. Itâ€™s particularly well-suited for text classification problems, such as spam filtering and sentiment analysis, where the features are word frequencies or counts.
+
+3. Bernoulli Naive Bayes:
+Assumes that all features are binary (i.e., they take only two values). The parameters that Bernoulli Naive Bayes models is the probability of each feature being equal to 1 for each class. Use Bernoulli Naive Bayes when your features are binary. Like Multinomial Naive Bayes, it is also used for text data but it models binary/boolean features.
+
+Define the objectives of trying to do
+To predict the category of new, unseen data by applying probabilistic measures learned from the training dataset.
+
+The aim to achieve through Naive Bayes classification
+The primary aim of using the Naive Bayes classification is to create a model that can be used to provide reliable prediction on future dataset.

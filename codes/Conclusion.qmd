@@ -1,0 +1,106 @@
+---
+title: "Conclusion"
+---
+# Overview
+In my project, I conducted a comprehensive analysis of Formula 1 pit stops with the aim of revealing the complexity and strategic importance of these critical moments in the race. My research focuses on a number of aspects such as pit stop duration, relevance to teams and circuits, and overall impact on race strategy.
+
+# Research Methodology.
+While collecting data through Python and R APIs, I encountered difficulties with data formatting and extraction. After overcoming these difficulties, I managed to collect a robust dataset for analysis. I chose the Naive Bayes classification method because it is suitable for large datasets and assumes that the variables are independent of each other, which is an important factor considering the multifaceted nature of F1 data.
+
+# Questions planed to answer:
+* How did pit stop duration change over time?
+    + The overall pit stop duration would be approximately the same over time for one team in a race. Actions would cause increasing pit stop duration would be human error made by the driver or the team engineerings.
+
+* Is there a relationship between pit stop durations and constructor/team?
+    + Yes, observation in the EDA shows that there is a relationship between pit stop durations and constructors. Although it remains a weak relationship, still prove that there is a slight relation. 
+
+* Is there a relationship between pit stop durations and race circuit?
+    + No, there is no obvious relationship between pit stop durations and race circuit since they pit stop durations are mostly depend on the driver and engineerings which would be perform consistantly in all race except some occasionally mistakes. Therefore, pit stop durations is not related to race circuit.
+
+* What is the time spent in the pit lane as a percentage of the race for a driver?
+    + Average pit stop duration in the pit lane for all race circuits is about 26 seconds and each driver do a 1.5 times pit stops in a race, and the mean race time for all race circuits is approaximately 6000 seconds. Therefore, time spent in the pit lance as a percentage of the race for a driver would be 0.65%.
+
+* Who is the best constructor on pit stop performance?
+    + The overall best constructor on pit stop performance in term of pit stop durations would be the Red Bull Racing.
+
+* Does the pit stop time affect the race?
+    + Definitely yes, the pit stop durations would directly affects the race strategies for the team and usually a shorter pit stop duration would give more flexible time window for the next pit stop or sometimes undercut the rival.  
+
+* What is the lap number that most car choose to pit stop?
+    + The lap number that most car choose to pit stop is actually dynamic. Pit stop timing need to be carefully designed before the race since each circuit is unique and have different time window for pit stop, however, there will always have troubles like accidents, safety cars, or even red flags that recalls all the cars back. Therefore, there is no obvious lap number that most car choose to pit stop, but the lap number to pit stop is a normal distribution that usually centered on the half of the overall lap numbers for a circuits. 
+
+* Is car doing more pit stops have advantages on those who do less pit stops?
+    + Technically yes, but different car have different performance on the same formula or tire. Softer tire have more friction but also easier to be wore out. Alfa Romeo team this season had awful performance using soft and medium tire compare to other teams, but their performance on hard tire would out-perform others a lot which is quite strange to see. Back to the question, pit stop is dependent on the team performance on tire, which is unimagable difficult for me to do a thorough analysis on it. 
+
+* Who have the fastest pit stop and did he get championship that year?
+    + Current fastest pit stop was made during lap 27 of Qatar Grand Prix by Lando Norris from McLaren in the 2023 season. However, he did not get the World Driver Champion this year.
+
+* Is the pit stop time consistent with driver's lap time?
+    + There is clear relationship between pit stop time and driver's lap time.
+
+
+
+# Key findings and analysis
+My exploratory data analysis yielded several noteworthy insights:
+* Pit stop duration over time: 
+    + I observed that pit stop duration remained relatively consistent across teams, which was largely influenced by human factors.
+
+* Team-Manufacturer Relationship: 
+    + My analysis revealed a weak but significant relationship between pit stop duration and team.
+
+* Track influence: 
+    + Interestingly, I did not find a substantial correlation between pit stop duration and track, suggesting that team performance and individual driver skills are more dependent on pit stop duration.
+
+* Pit stop time: 
+    + The analysis shows that the time spent in the pits is only a small fraction of the total race time, which emphasizes the efficiency of the pit crew.
+
+* BEST TEAM PERFORMANCE: 
+    + Red Bull Racing stood out in my findings in terms of pit stop performance.
+
+* Impact of pit stops: 
+    + I found that the timing and frequency of pit stops was strategically crucial and had a clear impact on race results.
+
+* Pit stop frequency and advantage: 
+    + The results of this study suggest that more frequent pit stops can lead to a tactical advantage, although this depends on a number of factors including tire performance and team strategy.
+
+# Limitations and Challenges
+I encountered a number of limitations in my project:
+* Data Selection and Quality: 
+    + Relying on a cleaned dataset may have limited the scope of my analysis.
+
+* Model Selection and Assumptions: 
+    + Although Naive Bayes models are robust, their assumptions of feature independence may not fully capture the complex interdependencies in F1 racing data.
+
+* Variable Relationships: 
+    + The lack of clear relationships between certain variables and race results suggests that there may be gaps in the data or a need for more detailed modeling techniques.
+
+# Future Directions and Improvements
+Looking ahead, there are several ways to enhance the analysis:
+* Expanding data sources: 
+    + Incorporating more data sets, including real-time race data and more granular team and driver statistics, could enrich the analysis.
+
+* Advanced modeling techniques: 
+    + Exploring machine learning models that take more account of the interdependence of variables may yield more accurate predictions and insights.
+
+* Deeper analysis of teams and drivers: 
+    + Focusing on individual teams or drivers over multiple seasons can reveal specific strategies or performance patterns related to pit stops.
+
+* Interactive and real-time analytics: 
+    + Developing a model that provides real-time insights during a race could be a breakthrough application of my work.
+
+* Broader strategic context: 
+    + Integrating my findings with broader race strategies could provide a more holistic view of race planning and execution.
+
+# Conclusion.
+My project has made an important contribution to understanding the nuances of pit strategy in Formula One. It has provided valuable insights into the factors influencing pit stop efficiency and their impact on race outcomes, while also highlighting the complexity and multifaceted nature of this aspect of F1 racing. Future research will build on my fundamental work and has the potential to further reveal the intricate balance of speed, strategy and precision that characterizes the world of Formula 1 racing.
+
+
+
+
+
+
+
+
+
+
+

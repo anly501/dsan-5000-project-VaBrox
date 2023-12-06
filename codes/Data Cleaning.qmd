@@ -1,0 +1,14 @@
+---
+title: "Data Cleaning"
+---
+
+The data cleaning process use Python:
+https://github.com/anly501/dsan-5000-project-VaBrox/blob/main/codes/01-data-gathering/pythonClean.py
+
+I used the CountVectorizer to predict the duration of pit stop time by the lap they pit. The outcome shows that there is no obvious relation between the duration of pit stop time and the lap they pit. So this cleaning helps me exclude a variable that can not affect the pit stop time in the future reseach.
+
+
+The data cleaning process use R
+https://github.com/anly501/dsan-5000-project-VaBrox/blob/main/codes/01-data-gathering/rClean.R
+
+This data set provide compresive infomation about each race status. The only cleaning I can do on this data set is to elimante some possible NA values and select certain variables I need for my analysis on the pit stop time duration.
